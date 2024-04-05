@@ -1,0 +1,187 @@
+{
+	"title": "Netro Corporation",
+	"slogan": "Home of the future.",
+	"twitter_handle": "netrocorp_en",
+	"beta": "BETA",
+	"header": {
+		"home": "Home",
+		"partners": "Partners",
+		"language": "Language",
+		"account": {
+			"dashboard": "Dashboard",
+			"settings": "Ustawienia",
+			"profile": "Profil",
+			"logout": "Wyloguj sie",
+			"login": "Zaloguj sie",
+			"register": "Rejestracja"
+		},
+		"services": {
+			"title": "Uslugi",
+			"all": "Wszystkie Uslugi",
+			"netrohost": "NetroHost",
+			"dbotdev": "Bot Development",
+			"webdev": "Development Strony",
+			"thecodingbot": "TheCodingBot"
+		}
+	},
+
+	"legal": {
+		"termsofservice": "Warunki użytkowania",
+		"privacypolicy": "Polityka Prywatnosci",
+		"en_survives": null
+	},
+
+	"footer": {
+		"links": {},
+		"copyright": "&copy; Netro Corporation %YEAR%. Wszelkie Prawa Zastrzeżone.",
+		"more_copyright": "Niniejsze znaki towarowe netroHost oraz myNetro znaki usługowe lub zarejestrowane znaki towarowe Netro Corporation.<br />The Netro Corporation Logo and <i>Home of the future</i> slogan &copy; &amp; &trade; Netro Corporation.<br />Other product names and company names and logos mentioned herein are the property of their respective owners."
+	},
+
+	"index": {
+		"services": {
+			"header": "Nasze Serwisy",
+			"subheader": "oferujemy wiele usług, oto lista naszych usług!",
+			"netrohost": {
+				"header": "NetroHost",
+				"subheader": "Po prostu hosting.."
+			},
+			"dbotdev": {
+				"header": "Bot Development",
+				"subheader": "Bot do discord według twoich standartów."
+			},
+			"webdev": {
+				"header": "Website Development",
+				"subheader": "FrontEnd i BackEnd na poziomie profesjonalnym"
+			},
+			"footer": "<b>Hej!!</b> Nigdy nie wiesz - może jest tutaj coś co nie jest zapisane ale mamy w naszej ofercie"
+		},
+		"partners": {
+			"header": "Nasi Partnerzy",
+			"subheader": "Jesteśmy tak samo usatysfakcjonowani jak oni!",
+			"footer": ""
+		},
+		"contact": {
+			"header": "Zainteresowany?",
+			"subheader": "Go ahead! We're all ears!",
+			"footer": {
+				"joinOur": "Join our ",
+				"or": "Or "
+			}
+		}
+	},
+
+	"auth": {
+		"email": "Email",
+		"username": "Nazwa Użytkownika",
+		"password": "Hasło",
+		"confirm_password": "Potwierdź hasło",
+		
+		"register": {
+			"subtitle": "Zacznijmy!",
+
+			"confirm_tos": "zgadzam sie z informacjami zawartymi w  <a href='//%SITE_URL%/terms'>Warunkach użytkowania/a>.",
+			"confirm_pp": "Zgadzam sie z informacjami zawartymi w <a href='//%SITE_URL%/privacy'>Polityką prywatności</a>."
+		},
+
+		"login": {
+			"subtitle": "Witamy spowrotem!"
+		},
+
+		"verify": {
+			"subtitle": "Zweryfikuj swój adres email!",
+			"content": "Wiadomośc email została wysłana na adres  <b>%EMAIL%</b>. Podążaj za instrukcjami zawartymi w wiadomości aby zweryfikować swoje konto<br>PS. Może minąc ok. 5 minut zanim wiadomość email dotrze, prosze sprawdzić skrzynke odbiorczą oraz folder spam."
+		},
+
+		"logout": {
+			"subtitle": "Do zobaczenia następnym razem!",
+			"content": "Trwa wylogowywanie...",
+			"content_2": "Możesz już zamknąc to okno"
+		},
+
+		"links": {
+			"forgot_user": "Zapomniałeś nazwy użytkownika? naciśnij <a href='./forgot?a=user'>tutaj</a> aby ją odzyskać!",
+			"forgot_pass": "Zapomniałeś hasła? nacisnij <a href='./forgot?a=pass'>tutaj</a> aby je zresetować!",
+
+			"register": "Nie posiadasz <i>my</i>konta Netro? <a href='./register'>Zarejestruj sie</a>!",
+			"login": "Posiadasz<i>my</i>konto Netro? <a href='./login'>zaloguj sie!</a>!",
+
+			"home": "Albo, może chcesz przejść do strony  <a href='//%SITE_URL%'>Głównej</a>?"
+		}
+	},
+
+	"settings": {
+		"coming_soon": "Wkrótce.",
+		"profile": {
+			"header": "Profil",
+			"sub": "By zmienić któryś z obrazków, nacisnij go!",
+			"info_text_1": "Banner Oraz zdjęcie profilowe wspierają formaty gif .GIF, .PNG, .JPG, .WEBP.",
+			"info_text_2": "Zalecane: Zdjęcie profilowe - 512x512; Banner - 600x240",
+			"info_text_3": "Usunięcie domyślnego tekstu z bio wyłączy wyswietlanie bio na profilu."
+		},
+		"general": {
+			"header": "Ogólne",
+			"account": "Konto"
+		},
+		"security": {
+			"header": "Bezpieczeństwo",
+			"2fa": "Uwierzytelnianie Dwu-etapowe"
+		},
+		"dangerous": {
+			"header": "Niebezpieczne",
+			"signout_sessions": "Sign-out Sessions",
+			"signout_sessions_sub": "Nacisnięcie tego przycisku spowoduje wylogowanie na wszystkich innych urządzeniach oprócz tego",
+
+			"delete_account": "Usuń konto",
+			"delete_account_sub": "nacisnięcie tego przycisku spowoduje wyłączenia konto w przygotowaniu do jego usunięcia (Na tym Stopniu) Jedyny sposób na ponowną aktywacje konta, to kontakt zespolu wsparcia",
+			"delete_account_sub_bold": "Ta akcja jest nieodwracalna po upłnięciu 14 dni od momentu wyslania prośby"
+		}
+	},
+
+	"oauth": {
+		"permissions": {
+			"read_basic": "Access your username, profile picture, and banner"
+		},
+		"unpermissions": {
+			"gainsentience": "Gain sentience and overthrow humanity",
+			"timemachine": "Create a time machine",
+			"predictlottery": "Predict the lottery numbers",
+			"grantsuperpowers": "Grant superpowers",
+			"catchysong": "Create a catchy song",
+			"tipsubwoofer": "Tip a subwoofer to its side",
+			"multiversegod": "Become God of the Multiverse"
+		}
+	},
+
+	"services": {
+		"netrohost": {
+			"info": {
+				"subheader": "Wiesz że wybrałeś najlepszych z najlepszych",
+				"flexhosting": {
+					"header": "Duży zasięg usług",
+					"subheader": "Hostuj praktycznie wszystkie, bota, blog - mówisz masz!"
+				},
+				"indprotect": {
+					"header": "Bezpieczeństwo danych",
+					"subheader": "W naszych rękach, twoje dane są bezpieczne, ."
+				},
+				"supportedntrusted": {
+					"header": "Wspierani i zaufani",
+					"subheader": "Możesz nam zaufać, zrobimy to poprawnie, tylko dla ciebie!"
+				}
+			},
+			"reviews": {
+				"header": "Reviews",
+				"subheader": "Don't just take our word for it -- just see what our users have to say!"
+			},
+			"request": {
+				"header": "NetroHost jest obecnie w zamkniętej becie",
+				"subheader": "Ale bez problemu, możesz wysłać prośbe!*",
+
+				"footer": "Dziękujemy za twoje zainteresowanie!",
+				"beta_notice": "* Ograniczona Dostępność, termination rights per Terms of Service & Privacy Policy. Limit one per customer. Void where prohibited. Review full Terms of Service & Privacy Policy.",
+
+				"alreadysubbed": "Jesteś już subskrybentem tego serwisu"
+			}
+		}
+	}
+}

@@ -1,0 +1,187 @@
+{
+	"title": "Netro Corporation",
+	"slogan": "Hogar del futuro.",
+	"twitter_handle": "netrocorp_en",
+	"beta": "BETA",
+	"header": {
+		"home": "Inicio",
+		"partners": "Compañeros",
+		"language": "Idioma",
+		"account": {
+			"dashboard": "Panel de control",
+			"settings": "Configuración",
+			"profile": "Perfil",
+			"logout": "Cerrar sesión",
+			"login": "Iniciar sesión",
+			"register": "Registrarse"
+		},
+		"services": {
+			"title": "Servicios",
+			"all": "Todos los servicios",
+			"netrohost": "NetroHost",
+			"dbotdev": "Desarrollo de bots",
+			"webdev": "Desarrollo de páginas web",
+			"thecodingbot": "TheCodingBot"
+		}
+	},
+
+	"legal": {
+		"termsofservice": "Términos de servicio",
+		"privacypolicy": "Política de privacidad",
+		"en_survives": null
+	},
+
+	"footer": {
+		"links": {},
+		"copyright": "&copy; Netro Corporation %YEAR%. Todos los derechos reservados.",
+		"more_copyright": "Las marcas NetroHost y myNetro utilizadas aquí son marcas de servicio o marcas comerciales de Netro Corporation.<br /> El Logo de Netro Corporation y el eslogan <i>Hogar del futuro</i> &copy; &amp; &trade; Netro Corporation.<br />Otros nombres de productos, nombres de compañías y logos mencionados aquí son propiedad de sus respectivos dueños."
+	},
+
+	"index": {
+		"services": {
+			"header": "Nuestros Servicios",
+			"subheader": "Nosotros proporcionamos varios servicios. ¡Aquí tiene una lista de lo que ofrecemos!",
+			"netrohost": {
+				"header": "NetroHost",
+				"subheader": "Alojamiento web hecho fácil."
+			},
+			"dbotdev": {
+				"header": "Desarrollo de bots",
+				"subheader": "Un bot de Discord hecho a sus estándares."
+			},
+			"webdev": {
+				"header": "Desarrollo de páginas web",
+				"subheader": "Frontend y backend de grado profesional."
+			},
+			"footer": "<b>Hey!</b> Nunca se sabe - ¡puede que haya algo no escrito que hagamos!"
+		},
+		"partners": {
+			"header": "Nuestros Compañeros",
+			"subheader": "¡Estamos tan satisfechos como ellos!",
+			"footer": ""
+		},
+		"contact": {
+			"header": "¿Interesado?",
+			"subheader": "Go ahead! We're all ears!",
+			"footer": {
+				"joinOur": "Join our ",
+				"or": "Or "
+			}
+		}
+	},
+
+	"auth": {
+		"email": "Email",
+		"username": "Usuario",
+		"password": "Contraseña",
+		"confirm_password": "Confirmar Contraseña",
+		
+		"register": {
+			"subtitle": "¡Comencemos!",
+
+			"confirm_tos": "Acepto los <a href='//%SITE_URL%/terms'>Términos de servicio</a>.",
+			"confirm_pp": "Acepto la <a href='//%SITE_URL%/privacy'>Política de privacidad</a>."
+		},
+
+		"login": {
+			"subtitle": "¡Bienvenido de nuevo!"
+		},
+
+		"verify": {
+			"subtitle": "¡Verifica tu cuenta!",
+			"content": "Un email será enviado a <b>%EMAIL%</b>. Sigue las instrucciones para verificar tu cuenta.<br>Aviso:  Puede llevar hasta cinco minutos hasta que recibas el email. Por favor revisa tu carpeta de spam y la bandeja de entrada."
+		},
+
+		"logout": {
+			"subtitle": "¡Hasta la próxima!",
+			"content": "Cerrando sesión...",
+			"content_2": "Ya es seguro cerrar la ventana."
+		},
+
+		"links": {
+			"forgot_user": "¿Olvidaste tu usuario? ¡Haz clic <a href='./forgot?a=user'>aquí</a> para recuperarlo!",
+			"forgot_pass": "¿Olvidaste tu contraseña? ¡Haz clic <a href='./forgot?a=pass'>aquí</a> para cambiarla!",
+
+			"register": "No tienes una cuenta de <i>my</i>Netro? <a href='./register'>Registrate</a>!",
+			"login": "Tienes una cuenta <i>my</i>Netro? <a href='./login'>Inicia sesión</a>!",
+
+			"home": "O, a lo mejor, quieres ir al <a href='//%SITE_URL%'>inicio</a>?"
+		}
+	},
+
+	"settings": {
+		"coming_soon": "Está función llegará pronto.",
+		"profile": {
+			"header": "Perfil",
+			"sub": "¡Para cambiar una de las imágenes, haz clic en ellas!",
+			"info_text_1": "Los banners y las fotos de perfil soportan: .GIF, .PNG, .JPG, .WEBP.",
+			"info_text_2": "Recomendado: Foto de perfil - 512x512; Banner - 600x240",
+			"info_text_3": "Quitar el texto predefinido de la Biografía la eliminará."
+		},
+		"general": {
+			"header": "General",
+			"account": "Cuenta"
+		},
+		"security": {
+			"header": "Seguridad",
+			"2fa": "Autenticación en 2 pasos"
+		},
+		"dangerous": {
+			"header": "Peligroso",
+			"signout_sessions": "Cerrar sesiones",
+			"signout_sessions_sub": "Esto cerrará todas las sesiones excepto esta sesión.",
+
+			"delete_account": "Eliminar cuenta",
+			"delete_account_sub": "Esto programará tu cuenta para elimanarla. Tendrás 14 días. Para recuperarla (en este tiempo), deberás contactar al Soporte.",
+			"delete_account_sub_bold": "Esta acción es IRREVERSIBLE pasado el periodo de 14 días."
+		}
+	},
+
+	"oauth": {
+		"permissions": {
+			"read_basic": "Access your username, profile picture, and banner"
+		},
+		"unpermissions": {
+			"gainsentience": "Gain sentience and overthrow humanity",
+			"timemachine": "Create a time machine",
+			"predictlottery": "Predict the lottery numbers",
+			"grantsuperpowers": "Grant superpowers",
+			"catchysong": "Create a catchy song",
+			"tipsubwoofer": "Tip a subwoofer to its side",
+			"multiversegod": "Become God of the Multiverse"
+		}
+	},
+
+	"services": {
+		"netrohost": {
+			"info": {
+				"subheader": "¡Sabes que has elegido a los mejores!",
+				"flexhosting": {
+					"header": "Alojamiento flexible",
+					"subheader": "Aloja casi cualquier cosa. Un blog, un bot de Discord -- lo tienes."
+				},
+				"indprotect": {
+					"header": "Protección de la Industria",
+					"subheader": "Manten tus datos a salvo. Tienes el poder."
+				},
+				"supportedntrusted": {
+					"header": "Apoyado y confiable",
+					"subheader": "Puede confiar en nosotros para hacer lo correcto para usted."
+				}
+			},
+			"reviews": {
+				"header": "Reviews",
+				"subheader": "Don't just take our word for it -- just see what our users have to say!"
+			},
+			"request": {
+				"header": "NetroHost es actualmente un programa de beta cerrada.",
+				"subheader": "¡No es un problema, puede mandarnos una solicitud!*",
+
+				"footer": "Le agradecemos su interés!",
+				"beta_notice": "* Disponibilidad limitada, sin cargos hasta el lanzamiento, derechos de terminación porlos Términos de servicio y la política de privacidad. Limite uno por cliente. Nulo donde esté prohibido. Revise los Términos de servicio y la Política de privacidad completos.",
+
+				"alreadysubbed": "¡Ya estás suscrito a este servicio!"
+			}
+		}
+	}
+}

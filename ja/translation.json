@@ -1,0 +1,187 @@
+{
+	"title": "Netro Corporation",
+	"slogan": "未来の本拠地。",
+	"twitter_handle": "netrocorp_jp",
+	"beta": "ベータ",
+	"header": {
+		"home": "ホーム",
+		"partners": "パートナー",
+		"language": "言語",
+		"account": {
+			"dashboard": "ダッシュボード",
+			"settings": "設定",
+			"profile": "プロフィール",
+			"logout": "ログアウト",
+			"login": "ログイン",
+			"register": "登録"
+		},
+		"services": {
+			"title": "サービス",
+			"all": "All Services",
+			"netrohost": "NetroHost",
+			"dbotdev": "Bot Development",
+			"webdev": "Website Development",
+			"thecodingbot": "TheCodingBot"
+		}
+	},
+
+	"legal": {
+		"termsofservice": "利用規約",
+		"privacypolicy": "プライバシーポリシー",
+		"en_survives": "<div class='msgBox error' style='margin-top: 2em;margin-bottom:0;display:block;'><p id='msgBox-content'>このバージョンは翻訳版である可能性があります。訳版は、元の英語版を変更したり置き換えたりするものではありません、そのため、元の英語版が尊重されます。</p></div>"
+	},
+
+	"footer": {
+		"links": {},
+		"copyright": "&copy; %YEAR% Netro Corporation. 全著作権所有。",
+		"more_copyright": "ここで使用されている NetroHost および myNetro マークは、Netro Corporation のサービス マークまたは登録商標です。<br />Netro Corporationのロゴと<i>未来の本拠地</i>のスローガン &copy; &amp; &trade; Netro Corporation。<br />ここに記載されているその他の製品名、会社名、およびロゴは、それぞれの所有者の所有物です。"
+	},
+
+	"index": {
+		"services": {
+			"header": "私たちのサービス",
+			"subheader": "多くのサービスを提供しています。私たちが提供するものの一覧をご紹介します！",
+			"netrohost": {
+				"header": "NetroHost",
+				"subheader": "ホスティングがより簡単に。"
+			},
+			"dbotdev": {
+				"header": "ボットの開発",
+				"subheader": "あなたの基準に合わせて作られたDiscordボット。"
+			},
+			"webdev": {
+				"header": "ウェブサイトの開発",
+				"subheader": "プロフェッショナル グレードのフロントエンドとバックエンド。"
+			},
+			"footer": "<b>おい！</b> あなたは決して知りません - リストにないことでも、私たちができることがあるかもしれません！"
+		},
+		"partners": {
+			"header": "私たちのパートナー",
+			"subheader": "私たちは彼らと同じくらい満足しています！",
+			"footer": ""
+		},
+		"contact": {
+			"header": "私たちに興味をお持ちですか？",
+			"subheader": "Go ahead! We're all ears!",
+			"footer": {
+				"joinOur": "Join our ",
+				"or": "Or "
+			}
+		}
+	},
+
+	"auth": {
+		"email": "電子メール",
+		"username": "ユーザー名",
+		"password": "パスワード",
+		"confirm_password": "パスワードの確認",
+
+		"register": {
+			"subtitle": "Let's get started!",
+
+			"confirm_tos": "I agree to the <a href='//%SITE_URL%/terms'>Terms of Service</a>.",
+			"confirm_pp": "I agree to the <a href='//%SITE_URL%/privacy'>Privacy Policy</a>."
+		},
+
+		"login": {
+			"subtitle": "おかえり！"
+		},
+
+		"verify": {
+			"subtitle": "Verify your account!",
+			"content": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.<br>Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders."
+		},
+
+		"logout": {
+			"subtitle": "See ya next time!",
+			"content": "Logging out...",
+			"content_2": "It's now safe to close this window."
+		},
+
+		"links": {
+			"forgot_user": "Forgot your username? Click <a href='./forgot?a=user'>here</a> to retrieve it!",
+			"forgot_pass": "Forgot your password? Click <a href='./forgot?a=pass'>here</a> to reset it!",
+
+			"register": "Don't have a <i>my</i>Netro account? <a href='./register'>Sign up</a>!",
+			"login": "Have a <i>my</i>Netro account? <a href='./login'>Login</a>!",
+
+			"home": "Or, maybe you want to go <a href='//%SITE_URL%'>Home</a>?"
+		}
+	},
+
+	"settings": {
+		"coming_soon": "この機能は近日公開予定です。",
+		"profile": {
+			"header": "プロフィール",
+			"sub": "画像の 1 つを変更するには、その画像をクリックしてください！",
+			"info_text_1": "バナーとプロフィール画像はどちらも .GIF、.PNG、.JPG、.WEBP をサポートしています。",
+			"info_text_2": "推奨: プロフィール写真 - 512x512; バナー - 600x240",
+			"info_text_3": "Removing the preset text from Bio will remove your Bio."
+		},
+		"general": {
+			"header": "一般",
+			"account": "アカウント"
+		},
+		"security": {
+			"header": "セキュリティ",
+			"2fa": "二要素認証"
+		},
+		"dangerous": {
+			"header": "デンジャラス",
+			"signout_sessions": "サインアウト セッション",
+			"signout_sessions_sub": "これによりこのセッションを除くすべてのセッションからログアウトされます。",
+
+			"delete_account": "アカウント削除",
+			"delete_account_sub": "これによりあなたのアカウントは直ちに、そして永遠に削除されます。",
+			"delete_account_sub_bold": "このアクションは元に戻せません！"
+		}
+	},
+
+	"oauth": {
+		"permissions": {
+			"read_basic": "Access your username, profile picture, and banner"
+		},
+		"unpermissions": {
+			"gainsentience": "Gain sentience and overthrow humanity",
+			"timemachine": "Create a time machine",
+			"predictlottery": "Predict the lottery numbers",
+			"grantsuperpowers": "Grant superpowers",
+			"catchysong": "Create a catchy song",
+			"tipsubwoofer": "Tip a subwoofer to its side",
+			"multiversegod": "Become God of the Multiverse"
+		}
+	},
+
+	"services": {
+		"netrohost": {
+			"info": {
+				"subheader": "You know you've chosen the best!",
+				"flexhosting": {
+					"header": "Flexible Hosting",
+					"subheader": "Host almost anything. A blog, Discord bot -- you got it."
+				},
+				"indprotect": {
+					"header": "Industry Protection",
+					"subheader": "Keep your data safe. You have the high ground."
+				},
+				"supportedntrusted": {
+					"header": "Supported & Trusted",
+					"subheader": "You can place your trust in us to make it right for you."
+				}
+			},
+			"reviews": {
+				"header": "Reviews",
+				"subheader": "Don't just take our word for it -- just see what our users have to say!"
+			},
+			"request": {
+				"header": "NetroHost is currently a closed beta program.",
+				"subheader": "No worries, you can send us a request!*",
+
+				"footer": "We thank you for your interest!",
+				"beta_notice": "* Limited availability, termination rights per Terms of Service & Privacy Policy. Limit one per customer. Void where prohibited. Review full Terms of Service & Privacy Policy.",
+
+				"alreadysubbed": "You're already subscribed to this service!"
+			}
+		}
+	}
+}

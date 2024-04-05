@@ -1,0 +1,187 @@
+{
+	"title": "Netro Corporation",
+	"slogan": "Domov Budúcnosti.",
+	"twitter_handle": "netrocorp_en",
+	"beta": "BETA",
+	"header": {
+		"home": "Domov",
+		"partners": "Partneri",
+		"language": "Jazyk",
+		"account": {
+			"dashboard": "Dashboard",
+			"settings": "Nastavenia",
+			"profile": "Profil",
+			"logout": "Odhlásiť sa",
+			"login": "Prihlásiť sa",
+			"register": "Zaregistrovať sa"
+		},
+		"services": {
+			"title": "Services",
+			"all": "All Services",
+			"netrohost": "NetroHost",
+			"dbotdev": "Bot Development",
+			"webdev": "Website Development",
+			"thecodingbot": "TheCodingBot"
+		}
+	},
+
+	"legal": {
+		"termsofservice": "Podmienky služby",
+		"privacypolicy": "Zásady ochrany osobných údajov",
+		"en_survives": null
+	},
+
+	"footer": {
+		"links": {},
+		"copyright": "&copy; Netro Corporation %YEAR%. All rights reserved.",
+		"more_copyright": "NetroHost and myNetro marks used herein are service marks or registered trademarks of Netro Corporation.<br />The Netro Corporation Logo and <i>Home of the future</i> slogan &copy; &amp; &trade; Netro Corporation.<br />Other product names and company names and logos mentioned herein are the property of their respective owners."
+	},
+
+	"index": {
+		"services": {
+			"header": "Naše služby",
+			"subheader": "Poskytujeme mnoho služieb. Tu je zoznam našej ponuky!",
+			"netrohost": {
+				"header": "NetroHost",
+				"subheader": "Zjednodušenie hostingu."
+			},
+			"dbotdev": {
+				"header": "Bot Development",
+				"subheader": "Discord Bot vytvorený podľa vašich štandardov."
+			},
+			"webdev": {
+				"header": "Website Development",
+				"subheader": "Frontend a backend na profesionálnej úrovni."
+			},
+			"footer": "<b>Hey!</b> nikdy neviete - možno je tu niečo, čo nie je uvedené a čo robíme!"
+		},
+		"partners": {
+			"header": "Partneri",
+			"subheader": "Sme rovnako spokojní ako oni!",
+			"footer": ""
+		},
+		"contact": {
+			"header": "Máte o nás záujem?",
+			"subheader": "Go ahead! We're all ears!",
+			"footer": {
+				"joinOur": "Join our ",
+				"or": "Or "
+			}
+		}
+	},
+
+	"auth": {
+		"email": "Email",
+		"username": "Username",
+		"password": "Password",
+		"confirm_password": "Confirm Password",
+
+		"register": {
+			"subtitle": "Let's get started!",
+
+			"confirm_tos": "I agree to the <a href='//%SITE_URL%/terms'>Terms of Service</a>.",
+			"confirm_pp": "I agree to the <a href='//%SITE_URL%/privacy'>Privacy Policy</a>."
+		},
+
+		"login": {
+			"subtitle": "Welcome back!"
+		},
+
+		"verify": {
+			"subtitle": "Verify your account!",
+			"content": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.<br>Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders."
+		},
+
+		"logout": {
+			"subtitle": "See ya next time!",
+			"content": "Logging out...",
+			"content_2": "It's now safe to close this window."
+		},
+
+		"links": {
+			"forgot_user": "Forgot your username? Click <a href='./forgot?a=user'>here</a> to retrieve it!",
+			"forgot_pass": "Forgot your password? Click <a href='./forgot?a=pass'>here</a> to reset it!",
+
+			"register": "Don't have a <i>my</i>Netro account? <a href='./register'>Sign up</a>!",
+			"login": "Have a <i>my</i>Netro account? <a href='./login'>Login</a>!",
+
+			"home": "Or, maybe you want to go <a href='//%SITE_URL%'>Home</a>?"
+		}
+	},
+
+	"settings": {
+		"coming_soon": "Táto funkcia príde čoskoro.",
+		"profile": {
+			"header": "Profil",
+			"sub": "Pre zmenu jedného z obrázkov, klikni naň!",
+			"info_text_1": "Aj banner aj profilová fotka podporujú .GIF, .PNG, .JPG a .WEBP.",
+			"info_text_2": "Odporúčané: Profilová fotka - 512x512; Banner - 600x240",
+			"info_text_3": "Removing the preset text from Bio will remove your Bio."
+		},
+		"general": {
+			"header": "Všeobecné",
+			"account": "Účet"
+		},
+		"security": {
+			"header": "Ochrana",
+			"2fa": "Dvojfázové overenie"
+		},
+		"dangerous": {
+			"header": "Nebezpečné",
+			"signout_sessions": "Odhlásiť relácie",
+			"signout_sessions_sub": "Toto vás odhlási zo všetkých relácií okrem tejto.",
+
+			"delete_account": "Odstrániť účet",
+			"delete_account_sub": "Toto ihneď a navždy odstráni váš účet.",
+			"delete_account_sub_bold": "Táto akcia je NEVRÁTITEĽNÁ!"
+		}
+	},
+
+	"oauth": {
+		"permissions": {
+			"read_basic": "Access your username, profile picture, and banner"
+		},
+		"unpermissions": {
+			"gainsentience": "Gain sentience and overthrow humanity",
+			"timemachine": "Create a time machine",
+			"predictlottery": "Predict the lottery numbers",
+			"grantsuperpowers": "Grant superpowers",
+			"catchysong": "Create a catchy song",
+			"tipsubwoofer": "Tip a subwoofer to its side",
+			"multiversegod": "Become God of the Multiverse"
+		}
+	},
+
+	"services": {
+		"netrohost": {
+			"info": {
+				"subheader": "You know you've chosen the best!",
+				"flexhosting": {
+					"header": "Flexible Hosting",
+					"subheader": "Host almost anything. A blog, Discord bot -- you got it."
+				},
+				"indprotect": {
+					"header": "Industry Protection",
+					"subheader": "Keep your data safe. You have the high ground."
+				},
+				"supportedntrusted": {
+					"header": "Supported & Trusted",
+					"subheader": "You can place your trust in us to make it right for you."
+				}
+			},
+			"reviews": {
+				"header": "Reviews",
+				"subheader": "Don't just take our word for it -- just see what our users have to say!"
+			},
+			"request": {
+				"header": "NetroHost is currently a closed beta program.",
+				"subheader": "No worries, you can send us a request!*",
+
+				"footer": "We thank you for your interest!",
+				"beta_notice": "* Limited availability, termination rights per Terms of Service & Privacy Policy. Limit one per customer. Void where prohibited. Review full Terms of Service & Privacy Policy.",
+
+				"alreadysubbed": "You're already subscribed to this service!"
+			}
+		}
+	}
+}
