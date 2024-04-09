@@ -75,6 +75,7 @@
 		"username": "Usuario",
 		"password": "Contraseña",
 		"confirm_password": "Confirmar Contraseña",
+		"2fa_code": "2FA Code",
 		
 		"register": {
 			"subtitle": "¡Comencemos!",
@@ -124,7 +125,15 @@
 		},
 		"security": {
 			"header": "Seguridad",
-			"2fa": "Autenticación en 2 pasos"
+			"extraAuth": {
+				"header": "Hold up!",
+				"subheader": "For your security, this action requires your password."
+
+			},
+			"2fa": {
+				"header": "Autenticación en 2 pasos",
+				"cannot_disable": "2FA is hard locked to your account."
+			}
 		},
 		"dangerous": {
 			"header": "Peligroso",

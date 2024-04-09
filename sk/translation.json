@@ -75,6 +75,7 @@
 		"username": "Username",
 		"password": "Password",
 		"confirm_password": "Confirm Password",
+		"2fa_code": "2FA Code",
 
 		"register": {
 			"subtitle": "Let's get started!",
@@ -124,7 +125,15 @@
 		},
 		"security": {
 			"header": "Ochrana",
-			"2fa": "Dvojfázové overenie"
+			"extraAuth": {
+				"header": "Hold up!",
+				"subheader": "For your security, this action requires your password."
+
+			},
+			"2fa": {
+				"header": "Dvojfázové overenie",
+				"cannot_disable": "2FA is hard locked to your account."
+			}
 		},
 		"dangerous": {
 			"header": "Nebezpečné",

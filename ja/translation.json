@@ -75,6 +75,7 @@
 		"username": "ユーザー名",
 		"password": "パスワード",
 		"confirm_password": "パスワードの確認",
+		"2fa_code": "2FA Code",
 
 		"register": {
 			"subtitle": "Let's get started!",
@@ -124,7 +125,15 @@
 		},
 		"security": {
 			"header": "セキュリティ",
-			"2fa": "二要素認証"
+			"extraAuth": {
+				"header": "Hold up!",
+				"subheader": "For your security, this action requires your password."
+
+			},
+			"2fa": {
+				"header": "二要素認証",
+				"cannot_disable": "2FA is hard locked to your account."
+			}
 		},
 		"dangerous": {
 			"header": "デンジャラス",

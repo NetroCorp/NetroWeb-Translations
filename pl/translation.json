@@ -75,6 +75,7 @@
 		"username": "Nazwa Użytkownika",
 		"password": "Hasło",
 		"confirm_password": "Potwierdź hasło",
+		"2fa_code": "2FA Code",
 		
 		"register": {
 			"subtitle": "Zacznijmy!",
@@ -124,7 +125,15 @@
 		},
 		"security": {
 			"header": "Bezpieczeństwo",
-			"2fa": "Uwierzytelnianie Dwu-etapowe"
+			"extraAuth": {
+				"header": "Hold up!",
+				"subheader": "For your security, this action requires your password."
+
+			},
+			"2fa": {
+				"header": "Uwierzytelnianie Dwu-etapowe",
+				"cannot_disable": "2FA is hard locked to your account."
+			}
 		},
 		"dangerous": {
 			"header": "Niebezpieczne",
