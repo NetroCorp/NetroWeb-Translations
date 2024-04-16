@@ -56,93 +56,93 @@
 			"footer": "<b>Эй!</b> Возможно, у нас есть услуги, которые не перечислены!"
 		},
 		"partners": {
-			"header": "Our Partners",
-			"subheader": "We're just as satisifed as they are!",
+			"header": "Наши партнеры",
+			"subheader": "Мы так же довольны как и они!",
 			"footer": ""
 		},
 		"contact": {
-			"header": "Interested in us?",
-			"subheader": "Go ahead! We're all ears!",
+			"header": "Заинтересовались нами?",
+			"subheader": "Давайте! Мы внимательно слушаем!",
 			"footer": {
-				"joinOur": "Join our ",
-				"or": "Or "
+				"joinOur": "Присоединяйтесь к нашему ",
+				"or": "Или "
 			}
 		}
 	},
 
 	"auth": {
-		"email": "Email",
-		"username": "Username",
-		"password": "Password",
-		"confirm_password": "Confirm Password",
-		"2fa_code": "2FA Code",
+		"email": "E-мейл",
+		"username": "Имя пользователя",
+		"password": "Пароль",
+		"confirm_password": "Подтвердите пароль",
+		"2fa_code": "2FA Код",
 
 		"register": {
-			"subtitle": "Let's get started!",
+			"subtitle": "Давайте начнем!",
 
-			"confirm_tos": "I agree to the <a href='//%SITE_URL%/terms'>Terms of Service</a>.",
-			"confirm_pp": "I agree to the <a href='//%SITE_URL%/privacy'>Privacy Policy</a>."
+			"confirm_tos": "Я согласен с <a href='//%SITE_URL%/terms'>Условиями обслуживания</a>.",
+			"confirm_pp": "Я согласен с <a href='//%SITE_URL%/privacy'>Политикой конфиденциальности</a>."
 		},
 
 		"login": {
-			"subtitle": "Welcome back!"
+			"subtitle": "Спасибо что вернулись!"
 		},
 
 		"verify": {
-			"subtitle": "Verify your account!",
-			"content": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.<br>Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders."
+			"subtitle": "Подтвердите ваш NetroWeb аккаунт!",
+			"content": "На адрес <b>%EMAIL%</b> будет отправлено письмо. Следуйте инструкциям для подтверждения учетной записи.<br>Обратите внимание: получение письма может занять до пяти минут. Посмотрите в папке 'Cпам'."
 		},
 
 		"logout": {
-			"subtitle": "See ya next time!",
-			"content": "Logging out...",
-			"content_2": "It's now safe to close this window."
+			"subtitle": "До встречи в следующий раз!",
+			"content": "Выход из системы...",
+			"content_2": "Теперь можно безопасно закрыть это окно."
 		},
 
 		"links": {
-			"forgot_user": "Forgot your username? Click <a href='./forgot?a=user'>here</a> to retrieve it!",
-			"forgot_pass": "Forgot your password? Click <a href='./forgot?a=pass'>here</a> to reset it!",
+			"forgot_user": "Забыли свой логин? Нажмите <a href='./forgot?a=user'>здесь</a>, чтобы найти его!",
+			"forgot_pass": "Забыли пароль? Нажмите <a href='./forgot?a=pass'>здесь</a>, чтобы изменить его!",
 
-			"register": "Don't have a <i>my</i>Netro account? <a href='./register'>Sign up</a>!",
-			"login": "Have a <i>my</i>Netro account? <a href='./login'>Login</a>!",
+			"register": "У вас нет <i>my</i>Netro аккаунт? <a href='./register'>Зарегистрируйтесь</a>!",
+			"login": "У вас есть <i>my</i>Netro аккаунт? <a href='./login'>Войдите</a>!",
 
-			"home": "Or, maybe you want to go <a href='//%SITE_URL%'>Home</a>?"
+			"home": "Или, возможно, вы хотите вернуться <a href='//%SITE_URL%'>на главную</a>?"
 		}
 	},
 
 	"settings": {
-		"coming_soon": "This feature is coming soon.",
+		"coming_soon": "Эта функция скоро будет доступна.",
 		"profile": {
-			"header": "Profile",
-			"sub": "To change one of the images, click on it!",
-			"info_text_1": "Both Banner and Profile Picture supports .GIF, .PNG, .JPG, .WEBP.",
-			"info_text_2": "Recommended: Profile Picture - 512x512; Banner - 600x240",
-			"info_text_3": "Removing the preset text from Bio will remove your Bio."
+			"header": "Профиль",
+			"sub": "Чтобы изменить одно из изображений, нажмите на него!",
+			"info_text_1": "Изображения для баннера и профиля поддерживают форматы .GIF, .PNG, .JPG, и .WEBP.",
+			"info_text_2": "Рекомендуется: изображение профиля - 512x512; баннер - 600x240"",
+			"info_text_3": "Удаление предустановленного текста из биографии приведет к удалению вашей биографии."
 		},
 		"general": {
-			"header": "General",
-			"account": "Account"
+			"header": "Основные",
+			"account": "Аккаунт"
 		},
 		"security": {
-			"header": "Security",
+			"header": "Безопасность",
 			"extraAuth": {
-				"header": "Hold up!",
-				"subheader": "For your security, this action requires your password."
+				"header": "Стоп!",
+				"subheader": "Для вашей безопасности эта операция требует вашего пароля."
 
 			},
 			"2fa": {
-				"header": "Two-Factor Authentication",
-				"cannot_disable": "2FA is hard locked to your account."
+				"header": "Двухфакторная аутентификация",
+				"cannot_disable": "Двухфакторная аутентификация жестко привязана к вашему аккаунту."
 			}
 		},
 		"dangerous": {
-			"header": "Dangerous",
-			"signout_sessions": "Sign-out Sessions",
-			"signout_sessions_sub": "This will log you out of all sessions except this session.",
+			"header": "Опасные",
+			"signout_sessions": "Выход из сеансов",
+			"signout_sessions_sub": "Это приведет к выходу из всех сеансов, кроме этого сеанса.",
 
-			"delete_account": "Delete Account",
-			"delete_account_sub": "This will schedule your account for deletion. You will have 14 days. To recover (at this time), you must contact Support.",
-			"delete_account_sub_bold": "This action is IRREVERSIBLE after the 14 day grace period!"
+			"delete_account": "Удаление аккаунта",
+			"delete_account_sub": "Это запланирует удаление вашего аккаунта. У вас будет 14 дней. Для восстановления (в это время) вам необходимо обратиться в службу поддержки.",
+			"delete_account_sub_bold": "Это действие необратимо после 14-дневного льготного периода!"
 		}
 	},
 
