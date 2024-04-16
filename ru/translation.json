@@ -11,8 +11,8 @@
 			"dashboard": "Панель",
 			"settings": "Настройки",
 			"profile": "Профиль",
-			"logout": "Logout",
-			"login": "Login",
+			"logout": "Уйти",
+			"login": "Логин",
 			"register": "Регистрация"
 		},
 		"services": {
