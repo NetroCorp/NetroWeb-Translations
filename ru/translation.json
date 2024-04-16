@@ -72,7 +72,7 @@
 
 	"auth": {
 		"email": "E-мейл",
-		"username": "Имя пользователя",
+		"username": "Имя аккаунтa",
 		"password": "Пароль",
 		"confirm_password": "Подтвердите пароль",
 		"2fa_code": "2FA Код",
@@ -148,7 +148,7 @@
 
 	"oauth": {
 		"permissions": {
-			"read_basic": "Access your username, profile picture, and banner"
+			"read_basic": "Access your аккаунт, profile picture, and banner"
 		},
 		"unpermissions": {
 			"gainsentience": "Получить сознание и свергнуть человечество",
