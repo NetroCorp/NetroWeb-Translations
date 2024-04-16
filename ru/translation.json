@@ -1,59 +1,59 @@
 {
 	"title": "Netro Corporation",
-	"slogan": "Home of the future.",
+	"slogan": "Дом будущего.",
 	"twitter_handle": "netrocorp_en",
-	"beta": "BETA",
+	"beta": "БЕТА",
 	"header": {
-		"home": "Home",
-		"partners": "Partners",
-		"language": "Language",
+		"home": "Главная",
+		"partners": "Партнеры",
+		"language": "Язык",
 		"account": {
-			"dashboard": "Dashboard",
-			"settings": "Settings",
-			"profile": "Profile",
+			"dashboard": "Панель",
+			"settings": "Настройки",
+			"profile": "Профиль",
 			"logout": "Logout",
 			"login": "Login",
-			"register": "Register"
+			"register": "Регистрация"
 		},
 		"services": {
-			"title": "Services",
-			"all": "All Services",
+			"title": "Услуги",
+			"all": "Все услуги",
 			"netrohost": "NetroHost",
-			"dbotdev": "Bot Development",
-			"webdev": "Website Development",
+			"dbotdev": "Разработка ботов",
+			"webdev": "Разработка сайтов",
 			"thecodingbot": "TheCodingBot"
 		}
 	},
 
 	"legal": {
-		"termsofservice": "Terms of Service",
-		"privacypolicy": "Privacy Policy",
+		"termsofservice": "Условия обслуживания",
+		"privacypolicy": "Политика конфиденциальности",
 		"en_survives": null
 	},
 
 	"footer": {
 		"links": {},
-		"copyright": "&copy; Netro Corporation %YEAR%. All rights reserved.",
-		"more_copyright": "NetroHost and myNetro marks used herein are service marks or registered trademarks of Netro Corporation.<br />The Netro Corporation Logo and <i>Home of the future</i> slogan &copy; &amp; &trade; Netro Corporation.<br />Other product names and company names and logos mentioned herein are the property of their respective owners."
+		"copyright": "&copy; Netro Corporation %YEAR%. Все права защищены.",
+		"more_copyright": "NetroHost и myNetro являются служебными марками или зарегистрированными торговыми марками Корпорации Netro.<br />Логотип Netro Corporation и лозунг <i>Дом будущего</i> &copy; &amp; ™ Netro Corporation.<br />Названия других продуктов, названия компаний и логотипы, упомянутые здесь, являются собственностью их соответствующих владельцев."
 	},
 
 	"index": {
 		"services": {
-			"header": "Our Services",
-			"subheader": "We provide many services. Here's a list of what we offer!",
+			"header": "Наши услуги",
+			"subheader": "Мы предоставляем множество услуг. Вот список того, что мы предлагаем!",
 			"netrohost": {
 				"header": "NetroHost",
-				"subheader": "Hosting made easier."
+				"subheader": "Хостинг стал проще."
 			},
 			"dbotdev": {
-				"header": "Bot Development",
-				"subheader": "A Discord bot made to your standards."
+				"header": "Разработка ботов",
+				"subheader": "Бот для Discord, созданный по вашим стандартам."
 			},
 			"webdev": {
-				"header": "Website Development",
-				"subheader": "Professional-grade frontend and backend."
+				"header": "Разработка сайтов",
+				"subheader": "Профессиональная разработка frontend и backend."
 			},
-			"footer": "<b>Hey!</b> You never know - there may be something not listed that we do!"
+			"footer": "<b>Эй!</b> Возможно, у нас есть услуги, которые не перечислены!"
 		},
 		"partners": {
 			"header": "Our Partners",
