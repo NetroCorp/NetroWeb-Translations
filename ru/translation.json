@@ -164,7 +164,7 @@
 	"services": {
 		"netrohost": {
 			"info": {
-				"subheader": "You know you've chosen the best!",
+				"subheader": "Вы знаете что сделали правильный выбор!",
 				"flexhosting": {
 					"header": "Flexible Hosting",
 					"subheader": "Host almost anything. A blog, Discord bot -- you got it."
