@@ -148,7 +148,7 @@
 
 	"oauth": {
 		"permissions": {
-			"read_basic": "Access your аккаунт, profile picture, and banner"
+			"read_basic": "Доступ к вашему имени аккаунтта, изображению профиля и баннеру"
 		},
 		"unpermissions": {
 			"gainsentience": "Получить сознание и свергнуть человечество",
