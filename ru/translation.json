@@ -185,8 +185,8 @@
 			"request": {
 				"header": "NetroHost находится в закрытой бета-версии.",
 				"subheader": "Не волнуйтесь, вы можете отправить нам запрос!*",
-				"footer": "We thank you for your interest!",
-				"beta_notice": "* Limited availability, termination rights per Terms of Service & Privacy Policy. Limit one per customer. Void where prohibited. Review full Terms of Service & Privacy Policy.",
+				"footer": "Благодарим вас за проявленный интерес!",
+				"beta_notice": "* Limited avai termination rights per Terms of Service & Privacy Policy. Limit one per customer. Void where prohibited. Review full Terms of Service & Privacy Policy.",
 
 				"alreadysubbed": "You're already subscribed to this service!"
 			}
