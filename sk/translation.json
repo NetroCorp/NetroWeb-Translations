@@ -1,6 +1,6 @@
 {
 	"title": "Netro Corporation",
-	"slogan": "Domov Budúcnosti.",
+	"slogan": "Home of the future.",
 	"twitter_handle": "netrocorp_en",
 	"beta": "BETA",
 	"header": {
@@ -8,7 +8,7 @@
 		"partners": "Partneri",
 		"language": "Jazyk",
 		"account": {
-			"dashboard": "Dashboard",
+			"dashboard": "Panel",
 			"settings": "Nastavenia",
 			"profile": "Profil",
 			"logout": "Odhlásiť sa",
@@ -16,11 +16,11 @@
 			"register": "Zaregistrovať sa"
 		},
 		"services": {
-			"title": "Services",
-			"all": "All Services",
+			"title": "Služby",
+			"all": "Všetky služby",
 			"netrohost": "NetroHost",
-			"dbotdev": "Bot Development",
-			"webdev": "Website Development",
+			"dbotdev": "Vývoj botov",
+			"webdev": "Vývoj stránok",
 			"thecodingbot": "TheCodingBot"
 		}
 	},
@@ -33,8 +33,8 @@
 
 	"footer": {
 		"links": {},
-		"copyright": "&copy; Netro Corporation %YEAR%. All rights reserved.",
-		"more_copyright": "NetroHost and myNetro marks used herein are service marks or registered trademarks of Netro Corporation.<br />The Netro Corporation Logo and <i>Home of the future</i> slogan &copy; &amp; &trade; Netro Corporation.<br />Other product names and company names and logos mentioned herein are the property of their respective owners."
+		"copyright": "&copy; Netro Corporation %YEAR%. Všetky práva vyhradené.",
+		"more_copyright": "NetroHost a myNetro marks used herein are service marks or registered trademarks of Netro Corporation.<br />The Netro Corporation Logo and <i>Home of the future</i> slogan &copy; &amp; &trade; Netro Corporation.<br />Other product names and company names and logos mentioned herein are the property of their respective owners."
 	},
 
 	"index": {
@@ -142,8 +142,7 @@
 
 			"delete_account": "Odstrániť účet",
 			"delete_account_sub": "Toto ihneď a navždy odstráni váš účet.",
-			"delete_account_sub_bold": "Táto akcia je NEVRÁTITEĽNÁ!",
-			"delete_account_disabled": "You are unable to delete your account at this time. To delete your account, please contact hello@netrocorp.net."
+			"delete_account_sub_bold": "Táto akcia je NEVRÁTITEĽNÁ!"
 		}
 	},
 
