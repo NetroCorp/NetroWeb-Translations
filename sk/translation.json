@@ -34,7 +34,7 @@
 	"footer": {
 		"links": {},
 		"copyright": "&copy; Netro Corporation %YEAR%. Všetky práva vyhradené.",
-		"more_copyright": "NetroHost a myNetro marks used herein are service marks or registered trademarks of Netro Corporation.<br />The Netro Corporation Logo and <i>Home of the future</i> slogan &copy; &amp; &trade; Netro Corporation.<br />Other product names and company names and logos mentioned herein are the property of their respective owners."
+		"more_copyright": "Značky NetroHost a myNetro použité tu sú servisné značky alebo registrované ochranné známky spoločnosti Netro Corporation.<br />Logo Netro Corporation a slogan <i>Home of the future</i> &copy; &amp; &trade; Netro Corporation.<br />Iné názvy produktov a názvy spoločností a logá uvedené tu sú majetkom ich príslušných vlastníkov."
 	},
 
 	"index": {
@@ -43,17 +43,17 @@
 			"subheader": "Poskytujeme mnoho služieb. Tu je zoznam našej ponuky!",
 			"netrohost": {
 				"header": "NetroHost",
-				"subheader": "Zjednodušenie hostingu."
+				"subheader": "Hosting urobený jednoduchšie."
 			},
 			"dbotdev": {
-				"header": "Bot Development",
+				"header": "Vývoj botov",
 				"subheader": "Discord Bot vytvorený podľa vašich štandardov."
 			},
 			"webdev": {
-				"header": "Website Development",
+				"header": "Vývoj stránok",
 				"subheader": "Frontend a backend na profesionálnej úrovni."
 			},
-			"footer": "<b>Hey!</b> nikdy neviete - možno je tu niečo, čo nie je uvedené a čo robíme!"
+			"footer": "<b>Hej!</b> nikdy neviete - možno je tu niečo, čo nie je uvedené a robíme to!"
 		},
 		"partners": {
 			"header": "Partneri",
@@ -62,51 +62,51 @@
 		},
 		"contact": {
 			"header": "Máte o nás záujem?",
-			"subheader": "Go ahead! We're all ears!",
+			"subheader": "Nech sa páči. Sme samé ucho.",
 			"footer": {
-				"joinOur": "Join our ",
-				"or": "Or "
+				"joinOur": "Pripojte sa do ",
+				"or": "Alebo "
 			}
 		}
 	},
 
 	"auth": {
 		"email": "Email",
-		"username": "Username",
-		"password": "Password",
-		"confirm_password": "Confirm Password",
-		"2fa_code": "2FA Code",
+		"username": "Používateľské meno",
+		"password": "Heslo",
+		"confirm_password": "Potvrďte heslo",
+		"2fa_code": "2FA Kód",
 
 		"register": {
-			"subtitle": "Let's get started!",
+			"subtitle": "Začnime!",
 
-			"confirm_tos": "I agree to the <a href='//%SITE_URL%/terms'>Terms of Service</a>.",
-			"confirm_pp": "I agree to the <a href='//%SITE_URL%/privacy'>Privacy Policy</a>."
+			"confirm_tos": "Súhlasím s <a href='//%SITE_URL%/terms'>Podmienkami služby</a>.",
+			"confirm_pp": "Súhlasím so <a href='//%SITE_URL%/privacy'>Zásadami ochrany osobných údajov</a>."
 		},
 
 		"login": {
-			"subtitle": "Welcome back!"
+			"subtitle": "Vitajte späť!"
 		},
 
 		"verify": {
-			"subtitle": "Verify your account!",
-			"content": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.<br>Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders."
+			"subtitle": "Overte svoj účet!",
+			"content": "Email bol poslaný na adresu <b>%EMAIL%</b>. Postupujte podľa pokynov na overenie Vášho účtu.<br>Note: Môže to trvať až 5 minút aby Vám prišiel email. Prosím, pozrite si aj Váš spam, aj doručenú poštu."
 		},
 
 		"logout": {
-			"subtitle": "See ya next time!",
-			"content": "Logging out...",
-			"content_2": "It's now safe to close this window."
+			"subtitle": "Uvidíme sa neskôr!",
+			"content": "Prebieha odhlasovanie...",
+			"content_2": "Teraz môžete toto okno bezpečne zatvoriť."
 		},
 
 		"links": {
-			"forgot_user": "Forgot your username? Click <a href='./forgot?a=user'>here</a> to retrieve it!",
-			"forgot_pass": "Forgot your password? Click <a href='./forgot?a=pass'>here</a> to reset it!",
+			"forgot_user": "Zabudli ste svoje používaťelské meno? Kliknite <a href='./forgot?a=user'>sem</a> na získanie!",
+			"forgot_pass": "Zabudli ste svoje heslo? Kliknite <a href='./forgot?a=pass'>sem</a> na resetovanie!",
 
-			"register": "Don't have a <i>my</i>Netro account? <a href='./register'>Sign up</a>!",
-			"login": "Have a <i>my</i>Netro account? <a href='./login'>Login</a>!",
+			"register": "Nemáte <i>my</i>účet Netro? <a href='./register'>Registrujte sa</a>!",
+			"login": "Máte <i>my</i>účet Netro? <a href='./login'>Prihláste sa </a>!",
 
-			"home": "Or, maybe you want to go <a href='//%SITE_URL%'>Home</a>?"
+			"home": "Alebo chcete ísť <a href='//%SITE_URL%'>Domov</a>?"
 		}
 	},
 
@@ -114,10 +114,10 @@
 		"coming_soon": "Táto funkcia príde čoskoro.",
 		"profile": {
 			"header": "Profil",
-			"sub": "Pre zmenu jedného z obrázkov, klikni naň!",
+			"sub": "Pre zmenu jedného z obrázkov, kliknite naň!",
 			"info_text_1": "Aj banner aj profilová fotka podporujú .GIF, .PNG, .JPG a .WEBP.",
 			"info_text_2": "Odporúčané: Profilová fotka - 512x512; Banner - 600x240",
-			"info_text_3": "Removing the preset text from Bio will remove your Bio."
+			"info_text_3": "Odstránením návrhu textu bia odstráni Vaše bio."
 		},
 		"general": {
 			"header": "Všeobecné",
@@ -126,13 +126,13 @@
 		"security": {
 			"header": "Ochrana",
 			"extraAuth": {
-				"header": "Hold up!",
-				"subheader": "For your security, this action requires your password."
+				"header": "Zadržte!",
+				"subheader": "Pre vašu bezpečnosť táto akcia vyžaduje vaše heslo."
 
 			},
 			"2fa": {
 				"header": "Dvojfázové overenie",
-				"cannot_disable": "2FA is hard locked to your account."
+				"cannot_disable": "2FA je pevne uzamknutá k vášmu účtu."
 			}
 		},
 		"dangerous": {
@@ -148,16 +148,16 @@
 
 	"oauth": {
 		"permissions": {
-			"read_basic": "Access your username, profile picture, and banner"
+			"read_basic": "Prístup k používateľskému menu, profilovému obrázku a banneru"
 		},
 		"unpermissions": {
-			"gainsentience": "Gain sentience and overthrow humanity",
-			"timemachine": "Create a time machine",
-			"predictlottery": "Predict the lottery numbers",
-			"grantsuperpowers": "Grant superpowers",
-			"catchysong": "Create a catchy song",
-			"tipsubwoofer": "Tip a subwoofer to its side",
-			"multiversegod": "Become God of the Multiverse"
+			"gainsentience": "Získať vnímavosť a zvrhnúť ľudstvo",
+			"timemachine": "Vytvoriť stroj času",
+			"predictlottery": "Predvídať čísla lotérie",
+			"grantsuperpowers": "Udeliť superschopnosti",
+			"catchysong": "Vytvoriť chytľavú pieseň",
+			"tipsubwoofer": "Nakloniť subwoofer na bok",
+			"multiversegod": "Stať sa bohom multidimenzie"
 		}
 	},
 
