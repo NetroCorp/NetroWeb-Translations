@@ -164,32 +164,32 @@
 	"services": {
 		"netrohost": {
 			"info": {
-				"subheader": "You know you've chosen the best!",
+				"subheader": "Viete že ste si vybrali to najlepšie!",
 				"flexhosting": {
-					"header": "Flexible Hosting",
-					"subheader": "Host almost anything. A blog, Discord bot -- you got it."
+					"header": "Flexibilný Hosting",
+					"subheader": "Hostujte takmer čokoľvek. Blog, bota na Discorde -- máte to mať.."
 				},
 				"indprotect": {
-					"header": "Industry Protection",
-					"subheader": "Keep your data safe. You have the high ground."
+					"header": "Priemyselná ochrana",
+					"subheader": "Udržte svoje dáta v bezpečí. Máte výsostné postavenie."
 				},
 				"supportedntrusted": {
-					"header": "Supported & Trusted",
-					"subheader": "You can place your trust in us to make it right for you."
+					"header": "Podporovaný & Dôveryhodný",
+					"subheader": "Môžete nám dôverovať, že to pre Vás urobíme správne."
 				}
 			},
 			"reviews": {
-				"header": "Reviews",
-				"subheader": "Don't just take our word for it -- just see what our users have to say!"
+				"header": "Hodnotenia",
+				"subheader": "Neverte nám len na slovo -- pozrite sa, čo hovoria naši používatelia!"
 			},
 			"request": {
-				"header": "NetroHost is currently a closed beta program.",
-				"subheader": "No worries, you can send us a request!*",
+				"header": "NetroHost je v súčasnosti uzavretý beta program.",
+				"subheader": "Bez obáv, môžete nám poslať žiadosť!*",
 
-				"footer": "We thank you for your interest!",
-				"beta_notice": "* Limited availability, termination rights per Terms of Service & Privacy Policy. Limit one per customer. Void where prohibited. Review full Terms of Service & Privacy Policy.",
+				"footer": "Ďakujeme za Váš záujem!",
+				"beta_notice": "* Obmedzená dostupnosť, práva na ukončenie podľa podmienok používania služby a zásad ochrany osobných údajov. Obmedzenie jedného na zákazníka. Neplatné tam, kde je to zakázané. Prečítajte si úplné podmienky služby a zásady ochrany osobných údajov.",
 
-				"alreadysubbed": "You're already subscribed to this service!"
+				"alreadysubbed": "Už ste sa prihlásili na túto službu!"
 			}
 		}
 	}
