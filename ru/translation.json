@@ -143,7 +143,7 @@
 			"delete_account": "Удаление аккаунта",
 			"delete_account_sub": "Это запланирует удаление вашего аккаунта. У вас будет 14 дней. Для восстановления (в это время) вам необходимо обратиться в службу поддержки.",
 			"delete_account_sub_bold": "Это действие необратимо после 14-дневного льготного периода!",
-			"delete_account_disabled": "You are unable to delete your account at this time. To delete your account, please contact hello@netrocorp.net."
+			"delete_account_disabled": "Вы не можете удалить свой аккаунт в данный момент. Для удаления аккаунта пожалуйста свяжитесь с hello@netrocorp.net."
 		}
 	},
 
