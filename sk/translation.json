@@ -142,7 +142,8 @@
 
 			"delete_account": "Odstrániť účet",
 			"delete_account_sub": "Toto ihneď a navždy odstráni váš účet.",
-			"delete_account_sub_bold": "Táto akcia je NEVRÁTITEĽNÁ!"
+			"delete_account_sub_bold": "Táto akcia je NEVRÁTITEĽNÁ!",
+			"delete_account_disabled": "You are unable to delete your account at this time. To delete your account, please contact hello@netrocorp.net."
 		}
 	},
 

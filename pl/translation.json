@@ -142,7 +142,8 @@
 
 			"delete_account": "Usuń konto",
 			"delete_account_sub": "nacisnięcie tego przycisku spowoduje wyłączenia konto w przygotowaniu do jego usunięcia (Na tym Stopniu) Jedyny sposób na ponowną aktywacje konta, to kontakt zespolu wsparcia",
-			"delete_account_sub_bold": "Ta akcja jest nieodwracalna po upłnięciu 14 dni od momentu wyslania prośby"
+			"delete_account_sub_bold": "Ta akcja jest nieodwracalna po upłnięciu 14 dni od momentu wyslania prośby",
+			"delete_account_disabled": "You are unable to delete your account at this time. To delete your account, please contact hello@netrocorp.net."
 		}
 	},
 

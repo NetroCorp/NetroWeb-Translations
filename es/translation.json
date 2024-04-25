@@ -142,7 +142,8 @@
 
 			"delete_account": "Eliminar cuenta",
 			"delete_account_sub": "Esto programará tu cuenta para elimanarla. Tendrás 14 días. Para recuperarla (en este tiempo), deberás contactar al Soporte.",
-			"delete_account_sub_bold": "Esta acción es IRREVERSIBLE pasado el periodo de 14 días."
+			"delete_account_sub_bold": "Esta acción es IRREVERSIBLE pasado el periodo de 14 días.",
+			"delete_account_disabled": "You are unable to delete your account at this time. To delete your account, please contact hello@netrocorp.net."
 		}
 	},
 

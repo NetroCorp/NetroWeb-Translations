@@ -142,7 +142,8 @@
 
 			"delete_account": "アカウント削除",
 			"delete_account_sub": "これによりあなたのアカウントは直ちに、そして永遠に削除されます。",
-			"delete_account_sub_bold": "このアクションは元に戻せません！"
+			"delete_account_sub_bold": "このアクションは元に戻せません！",
+			"delete_account_disabled": "あなたは現時点ではアカウントを削除することができません。アカウントを削除するには、hello@netrocorp.net に連絡してください。"
 		}
 	},
 
