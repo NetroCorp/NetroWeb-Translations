@@ -80,8 +80,8 @@
 		"register": {
 			"subtitle": "Let's get started!",
 
-			"confirm_tos": "I agree to the <a href='//%SITE_URL%/terms'>Terms of Service</a>.",
-			"confirm_pp": "I agree to the <a href='//%SITE_URL%/privacy'>Privacy Policy</a>."
+			"confirm_tos": "I agree to the <a href='//%SITE_URL%/terms'>利用規約</a>.",
+			"confirm_pp": "I agree to the <a href='//%SITE_URL%/privacy'>プライバシーポリシー</a>."
 		},
 
 		"login": {
@@ -90,7 +90,8 @@
 
 		"verify": {
 			"subtitle": "Verify your account!",
-			"content": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.<br>Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders."
+			"content": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.<br>Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders.",
+			"code": "検証コード"
 		},
 
 		"logout": {

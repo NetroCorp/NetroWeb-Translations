@@ -90,7 +90,8 @@
 
 		"verify": {
 			"subtitle": "Overte svoj účet!",
-			"content": "Email bol poslaný na adresu <b>%EMAIL%</b>. Postupujte podľa pokynov na overenie Vášho účtu.<br>Note: Môže to trvať až 5 minút aby Vám prišiel email. Prosím, pozrite si aj Váš spam, aj doručenú poštu."
+			"content": "Email bol poslaný na adresu <b>%EMAIL%</b>. Postupujte podľa pokynov na overenie Vášho účtu.<br>Note: Môže to trvať až 5 minút aby Vám prišiel email. Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
+			"code": "Verification Code"
 		},
 
 		"logout": {

@@ -90,7 +90,8 @@
 
 		"verify": {
 			"subtitle": "Zweryfikuj swój adres email!",
-			"content": "Wiadomośc email została wysłana na adres  <b>%EMAIL%</b>. Podążaj za instrukcjami zawartymi w wiadomości aby zweryfikować swoje konto<br>PS. Może minąc ok. 5 minut zanim wiadomość email dotrze, prosze sprawdzić skrzynke odbiorczą oraz folder spam."
+			"content": "Wiadomośc email została wysłana na adres  <b>%EMAIL%</b>. Podążaj za instrukcjami zawartymi w wiadomości aby zweryfikować swoje konto<br>PS. Może minąc ok. 5 minut zanim wiadomość email dotrze, prosze sprawdzić skrzynke odbiorczą oraz folder spam.",
+			"code": "Verification Code"
 		},
 
 		"logout": {

@@ -90,7 +90,8 @@
 
 		"verify": {
 			"subtitle": "¡Verifica tu cuenta!",
-			"content": "Un email será enviado a <b>%EMAIL%</b>. Sigue las instrucciones para verificar tu cuenta.<br>Aviso:  Puede llevar hasta cinco minutos hasta que recibas el email. Por favor revisa tu carpeta de spam y la bandeja de entrada."
+			"content": "Un email será enviado a <b>%EMAIL%</b>. Sigue las instrucciones para verificar tu cuenta.<br>Aviso:  Puede llevar hasta cinco minutos hasta que recibas el email. Por favor revisa tu carpeta de spam y la bandeja de entrada.",
+			"code": "Verification Code"
 		},
 
 		"logout": {
