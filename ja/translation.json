@@ -194,5 +194,11 @@
 				"alreadysubbed": "You're already subscribed to this service!"
 			}
 		}
+	},
+
+	"cookie_notice": {
+		"header": "Ooo! Cookies!",
+		"subheader": "We use cookies to allow you access to our site and services.<br>Cookies are bound by our Cookies are bound by our <a href='//%SITE_URL%/privacy'>%PRIVACYPOLICY%</a>.%CURSOR%",
+		"button": "OK, cool"
 	}
 }
