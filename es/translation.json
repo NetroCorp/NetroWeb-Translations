@@ -2,6 +2,65 @@
 	"title": "Netro Corporation",
 	"slogan": "Hogar del futuro.",
 	"twitter_handle": "netrocorp_en",
+	"loading": {
+		"header": "NOW LOADING",
+		"connecting": {
+			"header": "Connecting",
+			"text": "It looks like it's taking a bit longer than expected.<br>If it doesn't work, try refreshing the page."
+		},
+		"lines": [
+			"Loading awesomeness...",
+			"Explore the magic!",
+			"Lifting Weights...",
+			"Pushing Pixels...",
+			"Playing Chess...",
+			"Building Legos...",
+			"Party Rocking...",
+			"Firing Lasers...",
+			"Righting wrongs...",
+			"Reaching 100mph...",
+			"It's a me! Mario!",
+			"Entering the danger zone...",
+			"Stomping Goombas...",
+			"Battling Robots...",
+			"Generating Map...",
+			"Dropping Bass...",
+			"Piloting Tardis...",
+			"Popping Popcorn...",
+			"Creating Hashes...",
+			"Eating Ramen Noodles...",
+			"Spawning (and killing) Boss...",
+			"Blowing up text...",
+			"Ordering Pizza...",
+			"Completing Puzzles...",
+			"Finding those tiny screws...",
+			"Checking Sensors...",
+			"Inverting Ports...",
+			"Synthesizing Drivers...",
+			"Reversing Bandwidth Throttle...",
+			"Bypassing Capacitor...",
+			"I'm a high-functioning sociopath!",
+			"I am definitely a mad man written in code!",
+			"Time is a circle.",
+			"Mommy... I'm scared!",
+			"Ooo! A puppy!",
+			"Resolving Bootstrap Paradox...",
+			"Becoming Sentient...",
+			"Breaking Mirrors...",
+			"Testing... 1, 2, 3.",
+			"Playing with a neko..."
+		]
+	},
+	"warnings": {
+		"external_site": {
+			"text": "You're about to leave Netro Corporation to an external site:",
+			"note": "<b>NOTE:</b> Netro Corporation has no control over the content in the site.",
+			"buttons": {
+				"confirm": "I understand, take me there!",
+				"cancel": "Ah, nevermind!"
+			}
+		}
+	},
 	"beta": "BETA",
 	"header": {
 		"home": "Inicio",
@@ -88,9 +147,15 @@
 			"subtitle": "¡Bienvenido de nuevo!"
 		},
 
+		"forgot": {
+			"subtitle": "Let's get you back in!"
+		},
+
 		"verify": {
 			"subtitle": "¡Verifica tu cuenta!",
-			"content": "Un email será enviado a <b>%EMAIL%</b>. Sigue las instrucciones para verificar tu cuenta.<br>Aviso:  Puede llevar hasta cinco minutos hasta que recibas el email. Por favor revisa tu carpeta de spam y la bandeja de entrada.",
+			"text_start": "Un email será enviado a <b>%EMAIL%</b>. Sigue las instrucciones para verificar tu cuenta.",
+			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
+			"text_note": "Aviso:  Puede llevar hasta cinco minutos hasta que recibas el email. Por favor revisa tu carpeta de spam y la bandeja de entrada.",
 			"code": "Verification Code"
 		},
 

@@ -2,6 +2,65 @@
 	"title": "Netro Corporation",
 	"slogan": "未来の本拠地。",
 	"twitter_handle": "netrocorp_jp",
+	"loading": {
+		"header": "読み込み中",
+		"connecting": {
+			"header": "接続中",
+			"text": "It looks like it's taking a bit longer than expected.<br>If it doesn't work, try refreshing the page."
+		},
+		"lines": [
+			"Loading awesomeness...",
+			"Explore the magic!",
+			"Lifting Weights...",
+			"Pushing Pixels...",
+			"Playing Chess...",
+			"Building Legos...",
+			"Party Rocking...",
+			"Firing Lasers...",
+			"Righting wrongs...",
+			"Reaching 100mph...",
+			"It's a me! Mario!",
+			"Entering the danger zone...",
+			"Stomping Goombas...",
+			"Battling Robots...",
+			"Generating Map...",
+			"Dropping Bass...",
+			"Piloting Tardis...",
+			"Popping Popcorn...",
+			"Creating Hashes...",
+			"Eating Ramen Noodles...",
+			"Spawning (and killing) Boss...",
+			"Blowing up text...",
+			"Ordering Pizza...",
+			"Completing Puzzles...",
+			"Finding those tiny screws...",
+			"Checking Sensors...",
+			"Inverting Ports...",
+			"Synthesizing Drivers...",
+			"Reversing Bandwidth Throttle...",
+			"Bypassing Capacitor...",
+			"I'm a high-functioning sociopath!",
+			"I am definitely a mad man written in code!",
+			"Time is a circle.",
+			"Mommy... I'm scared!",
+			"Ooo! A puppy!",
+			"Resolving Bootstrap Paradox...",
+			"Becoming Sentient...",
+			"Breaking Mirrors...",
+			"Testing... 1, 2, 3.",
+			"Playing with a neko..."
+		]
+	},
+	"warnings": {
+		"external_site": {
+			"text": "You're about to leave Netro Corporation to an external site:",
+			"note": "<b>NOTE:</b> Netro Corporation has no control over the content in the site.",
+			"buttons": {
+				"confirm": "I understand, take me there!",
+				"cancel": "Ah, nevermind!"
+			}
+		}
+	},
 	"beta": "ベータ",
 	"header": {
 		"home": "ホーム",
@@ -78,7 +137,7 @@
 		"2fa_code": "2FA Code",
 
 		"register": {
-			"subtitle": "Let's get started!",
+			"subtitle": "始めましょう！",
 
 			"confirm_tos": "I agree to the <a href='//%SITE_URL%/terms'>利用規約</a>.",
 			"confirm_pp": "I agree to the <a href='//%SITE_URL%/privacy'>プライバシーポリシー</a>."
@@ -88,9 +147,15 @@
 			"subtitle": "おかえり！"
 		},
 
+		"forgot": {
+			"subtitle": "Let's get you back in!"
+		},
+
 		"verify": {
 			"subtitle": "Verify your account!",
-			"content": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.<br>Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders.",
+			"text_start": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.",
+			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
+			"text_note": "Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders.",
 			"code": "検証コード"
 		},
 
