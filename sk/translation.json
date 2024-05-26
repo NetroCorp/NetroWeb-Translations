@@ -3,10 +3,10 @@
 	"slogan": "Home of the future.",
 	"twitter_handle": "netrocorp_en",
 	"loading": {
-		"header": "NOW LOADING",
+		"header": "Načítavam.",
 		"connecting": {
-			"header": "Connecting",
-			"text": "It looks like it's taking a bit longer than expected.<br>If it doesn't work, try refreshing the page."
+			"header": "Pripaja sa...",
+			"text": "Vyzerá to, že to trvá trochu dlhšie, ako sa očakávalo.<br>Ak to nepôjde, skúste obnoviť stránku. "
 		},
 		"lines": [
 			"Loading awesomeness...",
@@ -53,11 +53,11 @@
 	},
 	"warnings": {
 		"external_site": {
-			"text": "You're about to leave Netro Corporation to an external site:",
-			"note": "<b>NOTE:</b> Netro Corporation has no control over the content in the site.",
+			"text": "Chystáte sa opustiť Netro Corporation na externú stránku:",
+			"note": "<b>Poznámka:</b> Netro Corporation nemá kontrolu nad obsahom tejto stránky.",
 			"buttons": {
 				"confirm": "I understand, take me there!",
-				"cancel": "Ah, nevermind!"
+				"cancel": "Ah, nevadí!"
 			}
 		}
 	},
