@@ -56,8 +56,8 @@
 			"text": "Chystáte sa opustiť Netro Corporation na externú stránku:",
 			"note": "<b>Poznámka:</b> Netro Corporation nemá kontrolu nad obsahom tejto stránky.",
 			"buttons": {
-				"confirm": "I understand, take me there!",
-				"cancel": "Ah, nevadí!"
+				"confirm": "Rozumiem, zoberte ma tam!",
+				"cancel": "Ah, radšej nie!"
 			}
 		}
 	},
@@ -154,9 +154,9 @@
 		"verify": {
 			"subtitle": "Overte svoj účet!",
 			"text_start": "Email bol poslaný na adresu <b>%EMAIL%</b>. Postupujte podľa pokynov na overenie Vášho účtu.",
-			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
-			"text_note": "Note: Môže to trvať až 5 minút aby Vám prišiel email. Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
-			"code": "Verification Code"
+			"text_code": "Skontrolujte svoj email pre overovací kód!<br>Ak nevidíte email, počkajte pár minút a potom obnovte túto stránku.",
+			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email. Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
+			"code": "Overovací kód"
 		},
 
 		"logout": {
@@ -262,7 +262,7 @@
 
 	"cookie_notice": {
 		"header": "Ooo! Cookies!",
-		"subheader": "We use cookies to allow you access to our site and services.<br>Cookies are bound by our Cookies are bound by our <a href='//%SITE_URL%/privacy'>%PRIVACYPOLICY%</a>.%CURSOR%",
+		"subheader": "oužívame cookies aby sme Vám dovolili prístup k našej stránke a službám.<br>Cookies sú viazané naším <a href='//%SITE_URL%/privacy'>%PRIVACYPOLICY%</a>.%CURSOR%",
 		"button": "OK, cool"
 	}
 }
