@@ -148,7 +148,7 @@
 		},
 
 		"forgot": {
-			"subtitle": "Let's get you back in!"
+			"subtitle": "Poďme Vás vrátiť späť!"
 		},
 
 		"verify": {
@@ -169,8 +169,8 @@
 			"forgot_user": "Zabudli ste svoje používaťelské meno? Kliknite <a href='./forgot?a=user'>sem</a> na získanie!",
 			"forgot_pass": "Zabudli ste svoje heslo? Kliknite <a href='./forgot?a=pass'>sem</a> na resetovanie!",
 
-			"register": "Nemáte <i>my</i>účet Netro? <a href='./register'>Registrujte sa</a>!",
-			"login": "Máte <i>my</i>účet Netro? <a href='./login'>Prihláste sa </a>!",
+			"register": "Nemáte účet <i>my</i> Netro? <a href='./register'>Registrujte sa</a>!",
+			"login": "Máte účet <i>my</i> Netro? <a href='./login'>Prihláste sa </a>!",
 
 			"home": "Alebo chcete ísť <a href='//%SITE_URL%'>Domov</a>?"
 		}
