@@ -53,7 +53,7 @@
 	},
 	"warnings": {
 		"external_site": {
-			"text": "Netro Corporation から外部サイトに移動しようとしています。:",
+			"text": "Netro Corporation から外部サイトに移動しようとしています:",
 			"note": "<b>注記：</b> Netro Corporation はそのサイトのコンテンツを管理していません。",
 			"buttons": {
 				"confirm": "分かりました、そこへ連れて行ってください！",
