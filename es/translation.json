@@ -148,7 +148,11 @@
 		},
 
 		"forgot": {
-			"subtitle": "Let's get you back in!"
+			"subtitle": "Let's get you back in!",
+			"text_start": "Un email será enviado a <b>%EMAIL%</b>. Sigue las instrucciones para verificar tu cuenta.",
+			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
+			"text_note": "Aviso:  Puede llevar hasta cinco minutos hasta que recibas el email. Por favor revisa tu carpeta de spam y la bandeja de entrada.",
+			"code": "Verification Code"
 		},
 
 		"verify": {

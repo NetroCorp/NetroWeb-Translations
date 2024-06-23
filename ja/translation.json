@@ -53,11 +53,11 @@
 	},
 	"warnings": {
 		"external_site": {
-			"text": "You're about to leave Netro Corporation to an external site:",
-			"note": "<b>NOTE:</b> Netro Corporation has no control over the content in the site.",
+			"text": "Netro Corporation から外部サイトに移動しようとしています。:",
+			"note": "<b>注記：</b> Netro Corporation はそのサイトのコンテンツを管理していません。",
 			"buttons": {
-				"confirm": "I understand, take me there!",
-				"cancel": "Ah, nevermind!"
+				"confirm": "分かりました、そこへ連れて行ってください！",
+				"cancel": "ああ、気にしないで！"
 			}
 		}
 	},
@@ -134,13 +134,13 @@
 		"username": "ユーザー名",
 		"password": "パスワード",
 		"confirm_password": "パスワードの確認",
-		"2fa_code": "2FA Code",
+		"2fa_code": "2FAコード",
 
 		"register": {
 			"subtitle": "始めましょう！",
 
-			"confirm_tos": "I agree to the <a href='//%SITE_URL%/terms'>利用規約</a>.",
-			"confirm_pp": "I agree to the <a href='//%SITE_URL%/privacy'>プライバシーポリシー</a>."
+			"confirm_tos": "<a href='//%SITE_URL%/terms'>利用規約</a>に同意します。",
+			"confirm_pp": "<a href='//%SITE_URL%/privacy'>プライバシーポリシー</a>に同意します。"
 		},
 
 		"login": {
@@ -148,7 +148,11 @@
 		},
 
 		"forgot": {
-			"subtitle": "Let's get you back in!"
+			"subtitle": "Let's get you back in!",
+			"text_start": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.",
+			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
+			"text_note": "Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders.",
+			"code": "検証コード"
 		},
 
 		"verify": {

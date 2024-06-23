@@ -148,7 +148,11 @@
 		},
 
 		"forgot": {
-			"subtitle": "Let's get you back in!"
+			"subtitle": "Let's get you back in!",
+			"text_start": "Wiadomośc email została wysłana na adres  <b>%EMAIL%</b>. Podążaj za instrukcjami zawartymi w wiadomości aby zweryfikować swoje konto",
+			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
+			"text_note": "PS. Może minąc ok. 5 minut zanim wiadomość email dotrze, prosze sprawdzić skrzynke odbiorczą oraz folder spam.",
+			"code": "Verification Code"
 		},
 
 		"verify": {

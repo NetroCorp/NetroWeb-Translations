@@ -148,7 +148,11 @@
 		},
 
 		"forgot": {
-			"subtitle": "Let's get you back in!"
+			"subtitle": "Let's get you back in!",
+			"text_start": "На адрес <b>%EMAIL%</b> будет отправлено письмо. Следуйте инструкциям для подтверждения учетной записи.",
+			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
+			"text_note": "Обратите внимание: получение письма может занять до пяти минут. Посмотрите в папке 'Cпам'.",
+			"code": "Код подтверждения"
 		},
 
 		"verify": {

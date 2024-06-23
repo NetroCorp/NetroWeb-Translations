@@ -148,7 +148,11 @@
 		},
 
 		"forgot": {
-			"subtitle": "Poďme Vás vrátiť späť!"
+			"subtitle": "Poďme Vás vrátiť späť!",
+			"text_start": "Email bol poslaný na adresu <b>%EMAIL%</b>. Postupujte podľa pokynov na overenie Vášho účtu.",
+			"text_code": "Skontrolujte svoj email pre overovací kód!<br>Ak nevidíte email, počkajte pár minút a potom obnovte túto stránku.",
+			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email. Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
+			"code": "Overovací kód"
 		},
 
 		"verify": {
