@@ -149,17 +149,22 @@
 
 		"forgot": {
 			"subtitle": "Let's get you back in!",
-			"text_start": "На адрес <b>%EMAIL%</b> будет отправлено письмо. Следуйте инструкциям для подтверждения учетной записи.",
-			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
-			"text_note": "Обратите внимание: получение письма может занять до пяти минут. Посмотрите в папке 'Cпам'.",
+			"text_user_start": "Enter the email associated with your account. A email will be sent to retrieve your username.",
+			"text_pass_start": "Enter the username associated with your account. A email will be sent to the username on file.",
+			"text_pass_code": "Check your email for the verification code, then enter your new password!",
+			"text_note": "Обратите внимание: получение письма может занять до пяти минут.",
+			"text_note_1": "Посмотрите в папке 'Cпам'.",
+			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
 			"code": "Код подтверждения"
 		},
 
 		"verify": {
 			"subtitle": "Подтвердите ваш NetroWeb аккаунт!",
 			"text_start": "На адрес <b>%EMAIL%</b> будет отправлено письмо. Следуйте инструкциям для подтверждения учетной записи.",
-			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
+			"text_code": "Check your email for the verification code!",
 			"text_note": "Обратите внимание: получение письма может занять до пяти минут. Посмотрите в папке 'Cпам'.",
+			"text_note_1": "Посмотрите в папке 'Cпам'.",
+			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
 			"code": "Код подтверждения"
 		},
 

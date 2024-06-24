@@ -149,17 +149,22 @@
 
 		"forgot": {
 			"subtitle": "Let's get you back in!",
-			"text_start": "Wiadomośc email została wysłana na adres  <b>%EMAIL%</b>. Podążaj za instrukcjami zawartymi w wiadomości aby zweryfikować swoje konto",
-			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
-			"text_note": "PS. Może minąc ok. 5 minut zanim wiadomość email dotrze, prosze sprawdzić skrzynke odbiorczą oraz folder spam.",
+			"text_user_start": "Enter the email associated with your account. A email will be sent to retrieve your username.",
+			"text_pass_start": "Enter the username associated with your account. A email will be sent to the username on file.",
+			"text_pass_code": "Check your email for the verification code, then enter your new password!",
+			"text_note": "PS. Może minąc ok. 5 minut zanim wiadomość email dotrze",
+			"text_note_1": "prosze sprawdzić skrzynke odbiorczą oraz folder spam.",
+			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
 			"code": "Verification Code"
 		},
 
 		"verify": {
 			"subtitle": "Zweryfikuj swój adres email!",
 			"text_start": "Wiadomośc email została wysłana na adres  <b>%EMAIL%</b>. Podążaj za instrukcjami zawartymi w wiadomości aby zweryfikować swoje konto",
-			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
-			"text_note": "PS. Może minąc ok. 5 minut zanim wiadomość email dotrze, prosze sprawdzić skrzynke odbiorczą oraz folder spam.",
+			"text_code": "Check your email for the verification code!",
+			"text_note": "PS. Może minąc ok. 5 minut zanim wiadomość email dotrze",
+			"text_note_1": "prosze sprawdzić skrzynke odbiorczą oraz folder spam.",
+			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
 			"code": "Verification Code"
 		},
 

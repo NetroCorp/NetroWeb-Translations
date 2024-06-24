@@ -149,17 +149,22 @@
 
 		"forgot": {
 			"subtitle": "Poďme Vás vrátiť späť!",
-			"text_start": "Email bol poslaný na adresu <b>%EMAIL%</b>. Postupujte podľa pokynov na overenie Vášho účtu.",
-			"text_code": "Skontrolujte svoj email pre overovací kód!<br>Ak nevidíte email, počkajte pár minút a potom obnovte túto stránku.",
-			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email. Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
+			"text_user_start": "Enter the email associated with your account. A email will be sent to retrieve your username.",
+			"text_pass_start": "Enter the username associated with your account. A email will be sent to the username on file.",
+			"text_pass_code": "Check your email for the verification code, then enter your new password!",
+			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email.",
+			"text_note_1": "Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
+			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
 			"code": "Overovací kód"
 		},
 
 		"verify": {
 			"subtitle": "Overte svoj účet!",
 			"text_start": "Email bol poslaný na adresu <b>%EMAIL%</b>. Postupujte podľa pokynov na overenie Vášho účtu.",
-			"text_code": "Skontrolujte svoj email pre overovací kód!<br>Ak nevidíte email, počkajte pár minút a potom obnovte túto stránku.",
-			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email. Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
+			"text_code": "Skontrolujte svoj email pre overovací kód!",
+			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email.",
+			"text_note_1": "Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
+			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
 			"code": "Overovací kód"
 		},
 

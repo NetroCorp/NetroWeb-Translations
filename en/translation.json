@@ -149,17 +149,22 @@
 
 		"forgot": {
 			"subtitle": "Let's get you back in!",
-			"text_start": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.",
-			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
-			"text_note": "Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders.",
+			"text_user_start": "Enter the email associated with your account. A email will be sent to retrieve your username.",
+			"text_pass_start": "Enter the username associated with your account. A email will be sent to the username on file.",
+			"text_pass_code": "Check your email for the verification code, then enter your new password!",
+			"text_note": "Note: It may take up to five minutes to retrieve the email.",
+			"text_note_1": "Please check your spam and inbox folders.",
+			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
 			"code": "Verification Code"
 		},
 
 		"verify": {
 			"subtitle": "Verify your account!",
 			"text_start": "An email will be sent to <b>%EMAIL%</b>. Follow the instructions to verify your account.",
-			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
-			"text_note": "Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders.",
+			"text_code": "Check your email for the verification code!",
+			"text_note": "Note: It may take up to five minutes to retrieve the email.",
+			"text_note_1": "Please check your spam and inbox folders.",
+			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
 			"code": "Verification Code"
 		},
 
