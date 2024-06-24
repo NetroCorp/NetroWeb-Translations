@@ -83,6 +83,51 @@
 			"content": "That link was most likely malicious.<br>Please report it to support.<br>You were safely redirected."
 		}
 	},
+	"dialog_messages": {
+		"knownPlaces": {
+			"user": "Forgot Username",
+			"pass1": "Forgot Password",
+			"pass2": "Password Reset",
+			"verify": "Account Verification",
+			
+			"oauth": "OAuth",
+
+			"pass_verify": "Password Verification",
+			"settings_account_verify": "Password Verification",
+
+			"settings_profile": "Update Profile",
+			"settings_account": "Update Settings",
+			"settings_logout_sessions": "Logout Sessions",
+			"settings_delete_account": "Delete Account",
+			"settings_unlink_": "Linked Accounts"
+		},
+		"unlink_account": {
+			"text": "Are you sure you want to unlink your %ACCOUNT_TYPE% account?",
+			"buttons": {
+				"confirm": "Yes",
+				"cancel": "No"
+			}
+		},
+		"login_welcome": "Welcome! You're here!",
+		"register_welcome": "Welcome to myNetro!",
+		"oauth_complete": "Now taking you to the app...",
+		"verify_start": "Sent verification email.",
+		"verify_complete": "You've been verified!",
+		"schdelete": "Your account is now scheduled for deletion.",
+		"reset_pass_start": "Sent password reset email.",
+		"reset_password_complete": "Password has been reset!",
+		"reset_user_start": "Sent username email.",
+
+		"ok_general": "Success!",
+		"ok_settings": "Your settings have been changed!",
+		"error_general": "Something's wrong. Please try again.",
+		"error_major": "Something's really wrong. Please try again later.",
+		"error_emptyfields": "You have empty fields!",
+		"error_ratelimit": "Slow it down! You're being ratelimited.",
+		"error_tryagain": "Ack! Let's try that again.",
+		"error_apidown": "Couldn't reach API.",
+		"error_readimage": "There was an error reading your image!"
+	},
 
 	"beta": "BETA",
 	"header": {
@@ -237,6 +282,13 @@
 			"2fa": {
 				"header": "Two-Factor Authentication",
 				"cannot_disable": "2FA is hard locked to your account."
+			}
+		},
+		"linked_accounts": {
+			"header": "Linked Accounts",
+			"discord": {
+				"is_linked": "Your Discord account (%DISCORD_ID%) is linked to your myNetro!",
+				"is_not_linked": "There is no Discord account linked to your myNetro (if doing for linked roles, please do this in Discord)."
 			}
 		},
 		"dangerous": {
