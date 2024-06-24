@@ -61,6 +61,29 @@
 			}
 		}
 	},
+	"errors": {
+		"FAILED_FETCH_PARTNERS": {
+			"title": "Partners",
+			"content": "Failed to fetch partners."
+		},
+		"FAILED_FETCH_REVIEWS": {
+			"title": "Reviews",
+			"content": "Failed to fetch reviews."
+		},
+		"FAILED_REFRESH_SESSION": {
+			"title": "Session",
+			"content": "Failed to refresh session information!"
+		},
+		"SESSION_EXPIRED": {
+			"title": "Session",
+			"content": "Your session has expired.<br>Please login again."
+		},
+		"SUS_LINK": {
+			"title": "Login",
+			"content": "That link was most likely malicious.<br>Please report it to support.<br>You were safely redirected."
+		}
+	},
+	
 	"beta": "ベータ",
 	"header": {
 		"home": "ホーム",
