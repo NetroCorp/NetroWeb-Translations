@@ -174,6 +174,12 @@
 			"content_2": "It's now safe to close this window."
 		},
 
+		"disabled": {
+			"header": "Your account is disabled.",
+			"instructions": "To restore your account, please contact <code>%SUPPORT_EMAIL%</code>.",
+			"warning": "Please note that in certain situations, such as violations of our <a href='//%SITE_URL%/terms'>%TERMSOFSERVICE%</a>, it may not be possible to reinstate your account."
+		},
+
 		"links": {
 			"forgot_user": "Forgot your username? Click <a href='./forgot?a=user'>here</a> to retrieve it!",
 			"forgot_pass": "Forgot your password? Click <a href='./forgot?a=pass'>here</a> to reset it!",
