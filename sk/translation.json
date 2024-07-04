@@ -63,24 +63,24 @@
 	},
 	"errors": {
 		"FAILED_FETCH_PARTNERS": {
-			"title": "Partners",
-			"content": "Failed to fetch partners."
+			"title": "Partneri",
+			"content": "Nepodarilo sa načítať partnerov."
 		},
 		"FAILED_FETCH_REVIEWS": {
-			"title": "Reviews",
-			"content": "Failed to fetch reviews."
+			"title": "Recenzie",
+			"content": "Nepodarilo sa načítať recenzie."
 		},
 		"FAILED_REFRESH_SESSION": {
-			"title": "Session",
-			"content": "Failed to refresh session information!"
+			"title": "",
+			"content": "Nepodarilo ss refresh session information!"
 		},
 		"SESSION_EXPIRED": {
-			"title": "Session",
-			"content": "Your session has expired.<br>Please login again."
+			"title": "Relácia",
+			"content": "Vaša relácia vypršala.<br>Prosím, prihláste sa znova."
 		},
 		"SUS_LINK": {
-			"title": "Login",
-			"content": "That link was most likely malicious.<br>Please report it to support.<br>You were safely redirected."
+			"title": "Prihlásenie",
+			"content": "Tento odkaz s veľkou pravdepodobnosťou je nebezpečný.<br>Prosím, nahláste to podpore.<br>Boli ste bezpečne presmerovaní."
 		}
 	},
 	"dialog_messages": {
@@ -192,7 +192,7 @@
 			"subheader": "Nech sa páči. Sme samé ucho.",
 			"footer": {
 				"joinOur": "Pripojte sa do ",
-				"or": "Alebo "
+				"or": "alebo "
 			}
 		}
 	},
