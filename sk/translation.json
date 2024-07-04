@@ -80,32 +80,32 @@
 		},
 		"SUS_LINK": {
 			"title": "Prihlásenie",
-			"content": "Tento odkaz s veľkou pravdepodobnosťou je nebezpečný.<br>Prosím, nahláste to podpore.<br>Boli ste bezpečne presmerovaní."
+			"content": "Tento odkaz je s veľkou pravdepodobnosťou nebezpečný.<br>Prosím, nahláste to podpore.<br>Boli ste bezpečne presmerovaní."
 		}
 	},
 	"dialog_messages": {
 		"knownPlaces": {
-			"user": "Forgot Username",
-			"pass1": "Forgot Password",
-			"pass2": "Password Reset",
-			"verify": "Account Verification",
+			"user": "Zabudnuté používateľské meno",
+			"pass1": "Zabudnuté heslo",
+			"pass2": "Resetovanie hesla",
+			"verify": "Overenie účtu",
 			
 			"oauth": "OAuth",
 
-			"pass_verify": "Password Verification",
-			"settings_account_verify": "Password Verification",
+			"pass_verify": "Overenie hesla",
+			"settings_account_verify": "Overenie hesla",
 
-			"settings_profile": "Update Profile",
-			"settings_account": "Update Settings",
-			"settings_logout_sessions": "Logout Sessions",
-			"settings_delete_account": "Delete Account",
-			"settings_unlink_": "Linked Accounts"
+			"settings_profile": "Aktualizovať profil",
+			"settings_account": "Aktualizovať nastavenia",
+			"settings_logout_sessions": "Odhlásiť relácie",
+			"settings_delete_account": "Odstrániť účet",
+			"settings_unlink_": "Prepojené účty"
 		},
 		"unlink_account": {
-			"text": "Are you sure you want to unlink your %ACCOUNT_TYPE% account?",
+			"text": "Ste si istý, že chcete odpojiť %ACCOUNT_TYPE% účet?",
 			"buttons": {
-				"confirm": "Yes",
-				"cancel": "No"
+				"confirm": "Áno",
+				"cancel": "Nie"
 			}
 		},
 		"login_welcome": "Welcome! You're here!",
