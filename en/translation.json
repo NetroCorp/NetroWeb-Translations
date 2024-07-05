@@ -202,6 +202,8 @@
 		"username": "Username",
 		"password": "Password",
 		"confirm_password": "Confirm Password",
+		"new_password": "New Password",
+		"confirm_new_password": "Confirm New Password",
 		"2fa_code": "2FA Code",
 
 		"register": {
