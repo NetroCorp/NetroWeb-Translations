@@ -202,6 +202,8 @@
 		"username": "Usuario",
 		"password": "Contraseña",
 		"confirm_password": "Confirmar Contraseña",
+		"new_password": "New Password",
+		"confirm_new_password": "Confirm New Password",
 		"2fa_code": "2FA Code",
 		
 		"register": {

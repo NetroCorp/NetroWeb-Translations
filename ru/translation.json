@@ -202,6 +202,8 @@
 		"username": "Имя аккаунтa",
 		"password": "Пароль",
 		"confirm_password": "Подтвердите пароль",
+		"new_password": "New Password",
+		"confirm_new_password": "Confirm New Password",
 		"2fa_code": "2FA Код",
 
 		"register": {

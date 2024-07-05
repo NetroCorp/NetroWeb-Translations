@@ -202,6 +202,8 @@
 		"username": "ユーザー名",
 		"password": "パスワード",
 		"confirm_password": "パスワードの確認",
+		"new_password": "New Password",
+		"confirm_new_password": "Confirm New Password",
 		"2fa_code": "2FAコード",
 
 		"register": {
