@@ -98,7 +98,7 @@
 			"settings_profile": "Aktualizovať profil",
 			"settings_account": "Aktualizovať nastavenia",
 			"settings_logout_sessions": "Odhlásiť relácie",
-			"settings_delete_account": "Odstrániť účet",
+			"settings_delete_account": "Odstrániť účet",https://github.com/Dominik159E0/NetroWeb-Translations/blob/main/sk/translation.json
 			"settings_unlink_": "Prepojené účty"
 		},
 		"unlink_account": {
@@ -108,25 +108,25 @@
 				"cancel": "Nie"
 			}
 		},
-		"login_welcome": "Welcome! You're here!",
-		"register_welcome": "Welcome to myNetro!",
-		"oauth_complete": "Now taking you to the app...",
-		"verify_start": "Sent verification email.",
-		"verify_complete": "You've been verified!",
-		"schdelete": "Your account is now scheduled for deletion.",
-		"reset_pass_start": "Sent password reset email.",
-		"reset_password_complete": "Password has been reset!",
-		"reset_user_start": "Sent username email.",
+		"login_welcome": "Vitajte! Ste tu!",
+		"register_welcome": "Vitajte v myNetro!",
+		"oauth_complete": "Teraz vás presmerujeme do aplikácie...",
+		"verify_start": "Poslali sme vám overovací email.",
+		"verify_complete": "Boli ste overený!",
+		"schdelete": "Váš účet bol naplánovaný na vymazanie.",
+		"reset_pass_start": "Odoslali sme vám email na obnovenie hesla.",
+		"reset_password_complete": "Vaše heslo bolo úspešne resetované!",
+		"reset_user_start": "Email s používateľským menom bol poslaný.",
 
-		"ok_general": "Success!",
-		"ok_settings": "Your settings have been changed!",
-		"error_general": "Something's wrong. Please try again.",
-		"error_major": "Something's really wrong. Please try again later.",
-		"error_emptyfields": "You have empty fields!",
-		"error_ratelimit": "Slow it down! You're being ratelimited.",
-		"error_tryagain": "Ack! Let's try that again.",
-		"error_apidown": "Couldn't reach API.",
-		"error_readimage": "There was an error reading your image!"
+		"ok_general": "Úspešne!",
+		"ok_settings": "Vaše nastavenia boli zmenene!",
+		"error_general": "Niečo nieje v poriadku. Prosím skúste to znova.",
+		"error_major": "Niečo je veľmi zle. Prosím skúste to znova.",
+		"error_emptyfields": "Máte prázdne polia!",
+		"error_ratelimit": "Spomaľte! Ste obmedzený.",
+		"error_tryagain": "Ach! Skúsme to znova.",
+		"error_apidown": "Nepodarilo sa pripojenie k API.",
+		"error_readimage": "Pri načitavaní vašeho obrázka došlo k chybe!"
 	},
 
 	"beta": "BETA",
