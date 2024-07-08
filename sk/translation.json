@@ -63,70 +63,70 @@
 	},
 	"errors": {
 		"FAILED_FETCH_PARTNERS": {
-			"title": "Partners",
-			"content": "Failed to fetch partners."
+			"title": "Partneri",
+			"content": "Nepodarilo sa načítať partnerov."
 		},
 		"FAILED_FETCH_REVIEWS": {
-			"title": "Reviews",
-			"content": "Failed to fetch reviews."
+			"title": "Recenzie",
+			"content": "Nepodarilo sa načítať recenzie."
 		},
 		"FAILED_REFRESH_SESSION": {
-			"title": "Session",
-			"content": "Failed to refresh session information!"
+			"title": "",
+			"content": "Nepodarilo sa obnoviť relačné informácie!"
 		},
 		"SESSION_EXPIRED": {
-			"title": "Session",
-			"content": "Your session has expired.<br>Please login again."
+			"title": "Relácia",
+			"content": "Vaša relácia vypršala.<br>Prosím, prihláste sa znova."
 		},
 		"SUS_LINK": {
-			"title": "Login",
-			"content": "That link was most likely malicious.<br>Please report it to support.<br>You were safely redirected."
+			"title": "Prihlásenie",
+			"content": "Tento odkaz je s veľkou pravdepodobnosťou nebezpečný.<br>Prosím, nahláste to podpore.<br>Boli ste bezpečne presmerovaní."
 		}
 	},
 	"dialog_messages": {
 		"knownPlaces": {
-			"user": "Forgot Username",
-			"pass1": "Forgot Password",
-			"pass2": "Password Reset",
-			"verify": "Account Verification",
+			"user": "Zabudnuté používateľské meno",
+			"pass1": "Zabudnuté heslo",
+			"pass2": "Resetovanie hesla",
+			"verify": "Overenie účtu",
 			
 			"oauth": "OAuth",
 
-			"pass_verify": "Password Verification",
-			"settings_account_verify": "Password Verification",
+			"pass_verify": "Overenie hesla",
+			"settings_account_verify": "Overenie hesla",
 
-			"settings_profile": "Update Profile",
-			"settings_account": "Update Settings",
-			"settings_logout_sessions": "Logout Sessions",
-			"settings_delete_account": "Delete Account",
-			"settings_unlink_": "Linked Accounts"
+			"settings_profile": "Aktualizovať profil",
+			"settings_account": "Aktualizovať nastavenia",
+			"settings_logout_sessions": "Odhlásiť relácie",
+			"settings_delete_account": "Odstrániť účet",
+			"settings_unlink_": "Prepojené účty"
 		},
 		"unlink_account": {
-			"text": "Are you sure you want to unlink your %ACCOUNT_TYPE% account?",
+			"text": "Ste si istý, že chcete odpojiť %ACCOUNT_TYPE% účet?",
 			"buttons": {
-				"confirm": "Yes",
-				"cancel": "No"
+				"confirm": "Áno",
+				"cancel": "Nie"
 			}
 		},
-		"login_welcome": "Welcome! You're here!",
-		"register_welcome": "Welcome to myNetro!",
-		"oauth_complete": "Now taking you to the app...",
-		"verify_start": "Sent verification email.",
-		"verify_complete": "You've been verified!",
-		"schdelete": "Your account is now scheduled for deletion.",
-		"reset_pass_start": "Sent password reset email.",
-		"reset_password_complete": "Password has been reset!",
-		"reset_user_start": "Sent username email.",
+		"login_welcome": "Vitajte! Ste tu!",
+		"register_welcome": "Vitajte v myNetro!",
+		"oauth_complete": "Teraz vás presmerujeme do aplikácie...",
+		"verify_start": "Poslali sme vám overovací email.",
+		"verify_complete": "Boli ste overený!",
+		"schdelete": "Váš účet bol naplánovaný na vymazanie.",
+		"reset_pass_start": "Odoslali sme vám email na obnovenie hesla.",
+		"reset_password_complete": "Vaše heslo bolo úspešne resetované!",
+		"reset_user_start": "Email s používateľským menom bol poslaný.",
 
-		"ok_general": "Success!",
-		"ok_settings": "Your settings have been changed!",
-		"error_general": "Something's wrong. Please try again.",
-		"error_major": "Something's really wrong. Please try again later.",
-		"error_emptyfields": "You have empty fields!",
-		"error_ratelimit": "Slow it down! You're being ratelimited.",
-		"error_tryagain": "Ack! Let's try that again.",
-		"error_apidown": "Couldn't reach API.",
-		"error_readimage": "There was an error reading your image!"
+		"ok_general": "Úspech!",
+		"ok_settings": "Vaše nastavenia boli zmenene!",
+		"error_general": "Niečo nieje v poriadku. Prosím skúste to znova.",
+		"error_major": "Niečo je veľmi zle. Prosím skúste to znova.",
+		"error_emptyfields": "Máte prázdne polia!",
+		"error_ratelimit": "Spomaľte! Ste obmedzený.",
+		"error_tryagain": "Ach! Skúsme to znova.",
+		"error_apidown": "Nepodarilo sa pripojenie k API.",
+		"error_readimage": "Pri načitavaní vašeho obrázka došlo k chybe!"
 	},
 
 	"beta": "BETA",
@@ -192,7 +192,7 @@
 			"subheader": "Nech sa páči. Sme samé ucho.",
 			"footer": {
 				"joinOur": "Pripojte sa do ",
-				"or": "Alebo "
+				"or": "alebo "
 			}
 		}
 	},
@@ -202,8 +202,8 @@
 		"username": "Používateľské meno",
 		"password": "Heslo",
 		"confirm_password": "Potvrďte heslo",
-		"new_password": "New Password",
-		"confirm_new_password": "Confirm New Password",
+		"new_password": "Nové heslo",
+		"confirm_new_password": "Potvrďte nové heslo",
 		"2fa_code": "2FA Kód",
 
 		"register": {
@@ -219,12 +219,12 @@
 
 		"forgot": {
 			"subtitle": "Poďme Vás vrátiť späť!",
-			"text_user_start": "Enter the email associated with your account. A email will be sent to retrieve your username.",
-			"text_pass_start": "Enter the username associated with your account. A email will be sent to the username on file.",
-			"text_pass_code": "Check your email for the verification code, then enter your new password!",
+			"text_user_start": "Zadajte svoj email pridružený k vášmu účtu. Email bude odoslaný na získanie Vášho používateľského mena.",
+			"text_pass_start": "Zadajte svoje použivateľské meno pridružené k vášmu účtu. Email bude odoslaný na používateľské meno v súbore.",
+			"text_pass_code": "Skontrolujte svoj email pre overovací kód, potom zadajte svoje nové heslo!",
 			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email.",
 			"text_note_1": "Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
-			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
+			"text_note_2": "Ak Váš spam a priečinok s doručenými emailami je stále prázdny po 5 minútach, prosím obnovte túto stránku.",
 			"code": "Overovací kód"
 		},
 
@@ -234,7 +234,7 @@
 			"text_code": "Skontrolujte svoj email pre overovací kód!",
 			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email.",
 			"text_note_1": "Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
-			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
+			"text_note_2": "Ak Váš spam a priečinok s doručenými emailami je stále prázdny po 5 minútach, prosím obnovte túto stránku.",
 			"code": "Overovací kód"
 		},
 
@@ -245,9 +245,9 @@
 		},
 
 		"disabled": {
-			"header": "Your account is disabled.",
-			"instructions": "To restore your account, please contact <code>%SUPPORT_EMAIL%</code>.",
-			"warning": "Please note that in certain situations, such as violations of our <a href='//%SITE_URL%/terms'>%TERMSOFSERVICE%</a>, it may not be possible to reinstate your account."
+			"header": "Váš účet bol zablokovaný.",
+			"instructions": "Pre obnovenie Vášho účtu, prosím kontaktujte <code>%SUPPORT_EMAIL%</code>.",
+			"warning": "Prosím, dbajte na to, že vo niektorých situáciach, takéto porušenia našich <a href='//%SITE_URL%/terms'>%TERMSOFSERVICE%</a> môže byť nemožné, aby sme obnovili Váš účet."
 		},
 
 		"links": {
@@ -287,10 +287,10 @@
 			}
 		},
 		"linked_accounts": {
-			"header": "Linked Accounts",
+			"header": "Prepojené účty",
 			"discord": {
-				"is_linked": "Your Discord account (%DISCORD_ID%) is linked to your myNetro!",
-				"is_not_linked": "There is no Discord account linked to your myNetro (if doing for linked roles, please do this in Discord)."
+				"is_linked": "Váš Discord účet (%DISCORD_ID%) je prepojený s Vaším myNetro!",
+				"is_not_linked": "Žiaden Discord účet nie je prepojený s Vaším myNetro (ak to robíte pre linked roles, prosím urobte to na Discorde)."
 			}
 		},
 		"dangerous": {
