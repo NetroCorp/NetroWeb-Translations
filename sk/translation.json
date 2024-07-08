@@ -72,7 +72,7 @@
 		},
 		"FAILED_REFRESH_SESSION": {
 			"title": "",
-			"content": "Nepodarilo ss refresh session information!"
+			"content": "Nepodarilo sa obnoviť relačné informácie!"
 		},
 		"SESSION_EXPIRED": {
 			"title": "Relácia",
@@ -98,7 +98,7 @@
 			"settings_profile": "Aktualizovať profil",
 			"settings_account": "Aktualizovať nastavenia",
 			"settings_logout_sessions": "Odhlásiť relácie",
-			"settings_delete_account": "Odstrániť účet",https://github.com/Dominik159E0/NetroWeb-Translations/blob/main/sk/translation.json
+			"settings_delete_account": "Odstrániť účet",
 			"settings_unlink_": "Prepojené účty"
 		},
 		"unlink_account": {
@@ -118,7 +118,7 @@
 		"reset_password_complete": "Vaše heslo bolo úspešne resetované!",
 		"reset_user_start": "Email s používateľským menom bol poslaný.",
 
-		"ok_general": "Úspešne!",
+		"ok_general": "Úspech!",
 		"ok_settings": "Vaše nastavenia boli zmenene!",
 		"error_general": "Niečo nieje v poriadku. Prosím skúste to znova.",
 		"error_major": "Niečo je veľmi zle. Prosím skúste to znova.",
@@ -202,8 +202,8 @@
 		"username": "Používateľské meno",
 		"password": "Heslo",
 		"confirm_password": "Potvrďte heslo",
-		"new_password": "New Password",
-		"confirm_new_password": "Confirm New Password",
+		"new_password": "Nové heslo",
+		"confirm_new_password": "Potvrďte nové heslo",
 		"2fa_code": "2FA Kód",
 
 		"register": {
@@ -219,12 +219,12 @@
 
 		"forgot": {
 			"subtitle": "Poďme Vás vrátiť späť!",
-			"text_user_start": "Enter the email associated with your account. A email will be sent to retrieve your username.",
-			"text_pass_start": "Enter the username associated with your account. A email will be sent to the username on file.",
-			"text_pass_code": "Check your email for the verification code, then enter your new password!",
+			"text_user_start": "Zadajte svoj email pridružený k vášmu účtu. Email bude odoslaný na získanie Vášho používateľského mena.",
+			"text_pass_start": "Zadajte svoje použivateľské meno pridružené k vášmu účtu. Email bude odoslaný na používateľské meno v súbore.",
+			"text_pass_code": "Skontrolujte svoj email pre overovací kód, potom zadajte svoje nové heslo!",
 			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email.",
 			"text_note_1": "Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
-			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
+			"text_note_2": "Ak Váš spam a priečinok s doručenými emailami je stále prázdny po 5 minútach, prosím obnovte túto stránku.",
 			"code": "Overovací kód"
 		},
 
@@ -234,7 +234,7 @@
 			"text_code": "Skontrolujte svoj email pre overovací kód!",
 			"text_note": "Poznámka: Môže to trvať až 5 minút aby Vám prišiel email.",
 			"text_note_1": "Prosím, pozrite si aj Váš spam, aj doručenú poštu.",
-			"text_note_2": "If your spam and and inbox folders are still empty after five minutes, please refresh this page.",
+			"text_note_2": "Ak Váš spam a priečinok s doručenými emailami je stále prázdny po 5 minútach, prosím obnovte túto stránku.",
 			"code": "Overovací kód"
 		},
 
@@ -245,9 +245,9 @@
 		},
 
 		"disabled": {
-			"header": "Your account is disabled.",
-			"instructions": "To restore your account, please contact <code>%SUPPORT_EMAIL%</code>.",
-			"warning": "Please note that in certain situations, such as violations of our <a href='//%SITE_URL%/terms'>%TERMSOFSERVICE%</a>, it may not be possible to reinstate your account."
+			"header": "Váš účet bol zablokovaný.",
+			"instructions": "Pre obnovenie Vášho účtu, prosím kontaktujte <code>%SUPPORT_EMAIL%</code>.",
+			"warning": "Prosím, dbajte na to, že vo niektorých situáciach, takéto porušenia našich <a href='//%SITE_URL%/terms'>%TERMSOFSERVICE%</a> môže byť nemožné, aby sme obnovili Váš účet."
 		},
 
 		"links": {
@@ -287,10 +287,10 @@
 			}
 		},
 		"linked_accounts": {
-			"header": "Linked Accounts",
+			"header": "Prepojené účty",
 			"discord": {
-				"is_linked": "Your Discord account (%DISCORD_ID%) is linked to your myNetro!",
-				"is_not_linked": "There is no Discord account linked to your myNetro (if doing for linked roles, please do this in Discord)."
+				"is_linked": "Váš Discord účet (%DISCORD_ID%) je prepojený s Vaším myNetro!",
+				"is_not_linked": "Žiaden Discord účet nie je prepojený s Vaším myNetro (ak to robíte pre linked roles, prosím urobte to na Discorde)."
 			}
 		},
 		"dangerous": {
